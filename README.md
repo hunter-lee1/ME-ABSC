@@ -175,7 +175,7 @@ If you use this code in your research, please cite our paper:
   title={Exploring Model Editing for LLM-based Aspect-Based Sentiment Classification},
   author={Li, Shichen and Wang, Zhongqing and Zhao, Zheyu and Zhang, Yue and Li, Peifeng},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2025}，
+  year={2025},
   url={https://ojs.aaai.org/index.php/AAAI/article/view/34625}
 }
 
