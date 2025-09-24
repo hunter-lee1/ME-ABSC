@@ -56,7 +56,7 @@ Place your data files in the `data/` directory with the naming convention:
 To simplify the code, we refactored the original implementation and combined both training and inference into a single file. The code is very straightforward. Run the automated training pipeline:
 
 ```bash
-bash reft.sh
+bash me_absc.sh
 ```
 
 ### Manual Training
