@@ -191,6 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [PEFT](https://github.com/huggingface/peft) for LoRA support
 - [Transformers](https://github.com/huggingface/transformers) for model implementations
 - [Llama-2](https://huggingface.co/meta-llama/Llama-2-7b-hf) base model
+- The README was drafted/edited with the assistance of LLMs
 
 ---
 
