@@ -1,0 +1,886 @@
+{"aspect": "classes", "label": "Neg", "sentence": "i have had classes with students who are reading at elementary school level and i was so freaking embarrassed ."}
+{"aspect": "customer service", "label": "Pos", "sentence": "everything is as promised , customer service is great , and the organization is extremely professional ."}
+{"aspect": "organization", "label": "Pos", "sentence": "everything is as promised , customer service is great , and the organization is extremely professional ."}
+{"aspect": "uop", "label": "Neg", "sentence": "i honestly have to say that uop is in it for the money rather than the success of their students ."}
+{"aspect": "university", "label": "Pos", "sentence": "i believe this university is of good quality and would refer others to it ."}
+{"aspect": "egroups.com", "label": "Pos", "sentence": "first and foremost , since egroups.com took over onelist.com i have been a lot happier ."}
+{"aspect": "problems", "label": "Neg", "sentence": "our problems arose later on in the process , and were numerous ."}
+{"aspect": "e*trade", "label": "Neu", "sentence": "i 've had my e*trade account for over 4 years and the reason is because of inertia ."}
+{"aspect": "experience", "label": "Pos", "sentence": "i have had nothing but good experience with them ."}
+{"aspect": "phone", "label": "Neg", "sentence": "can't easily get on phone with support : you must navigate through an interminable voice response system ."}
+{"aspect": "support", "label": "Neg", "sentence": "can't easily get on phone with support : you must navigate through an interminable voice response system ."}
+{"aspect": "voice response system", "label": "Neg", "sentence": "can't easily get on phone with support : you must navigate through an interminable voice response system ."}
+{"aspect": "program", "label": "Neu", "sentence": "it is possible to get some knowledge from the program , but this requires the student to read all the materials ."}
+{"aspect": "lists", "label": "Pos", "sentence": "some of the lists can generate a large amount of email every day ."}
+{"aspect": "ability", "label": "Neu", "sentence": "the ability to communicate and write is essential for the online campus ."}
+{"aspect": "friend", "label": "Pos", "sentence": "i had a friend graduate from devry with a business bachelors in project management and she seems to be doing fine and is heading to law school ."}
+{"aspect": "devry", "label": "Pos", "sentence": "i had a friend graduate from devry with a business bachelors in project management and she seems to be doing fine and is heading to law school ."}
+{"aspect": "groups", "label": "Pos", "sentence": "i found groups that were perfect for me and have made some friends in the process ."}
+{"aspect": "school", "label": "Neg", "sentence": "all i can say is that this school is a total waste of time ."}
+{"aspect": "devry", "label": "Neg", "sentence": "there were professors i had who talked bad about devry during class , that 's when i knew how big of a mistake it was to go to devry ."}
+{"aspect": "devry", "label": "Neg", "sentence": "there were professors i had who talked bad about devry during class , that 's when i knew how big of a mistake it was to go to devry ."}
+{"aspect": "portfolio manager", "label": "Pos", "sentence": "these stocks can be followed in the portfolio manager ( they have a great one , by the way ) to determine if the analysts are right and if you should in fact buy ."}
+{"aspect": "school", "label": "Pos", "sentence": "it is a very good school ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "ah yes , my first experience with etrade customer service ; was i on hold for 45 minutes or a full hour ?"}
+{"aspect": "ecircles", "label": "Pos", "sentence": "and the best thing about ecircles is that it is free !"}
+{"aspect": "counselor", "label": "Neg", "sentence": "my academic counselor was nearly non - existent ; emails generally went unanswered or had a generic response referring to documents kept on the website ."}
+{"aspect": "devry", "label": "Neg", "sentence": "with devry you get high cost and not much in return ."}
+{"aspect": "technician", "label": "Pos", "sentence": "the technician even helped me walk thru the application to make sure i did not have any more technical issues ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "e - trade also lets you personalize your web page with its mix of investment news , research and your personal portfolio ."}
+{"aspect": "web page", "label": "Pos", "sentence": "e - trade also lets you personalize your web page with its mix of investment news , research and your personal portfolio ."}
+{"aspect": "egroups", "label": "Neg", "sentence": "another pitfall of egroups is their tech support ."}
+{"aspect": "tech support", "label": "Neg", "sentence": "another pitfall of egroups is their tech support ."}
+{"aspect": "instructors", "label": "Neg", "sentence": "yes , there are some instructors that appear unqualified to teach at a college - level ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "on the plus side , e*trade is getting into a number of side areas that might prove to be of benefit to its client base ."}
+{"aspect": "umuc", "label": "Neg", "sentence": "my main complaint with umuc is the disorganization among their administration ."}
+{"aspect": "administration", "label": "Neg", "sentence": "my main complaint with umuc is the disorganization among their administration ."}
+{"aspect": "school", "label": "Neg", "sentence": "i highly do n't reccomend this school ."}
+{"aspect": "etrade", "label": "Pos", "sentence": "if you are on a fast connection , this really does n't matter at all since etrade has fast loading pages ."}
+{"aspect": "pages", "label": "Pos", "sentence": "if you are on a fast connection , this really does n't matter at all since etrade has fast loading pages ."}
+{"aspect": "research", "label": "Pos", "sentence": "i like their research , and though i am often baffled by technical analysis , it is quite easy to access and i 'm learning more and more as i go ."}
+{"aspect": "site", "label": "Pos", "sentence": "this site can make staying in touch with nieces , nephews , cousins , aunts and uncles allot easier ."}
+{"aspect": "online schooling", "label": "Neu", "sentence": "online schooling is n't for everyone ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "although e*trade may be cheaper than seeking the services of a professional broker , i am at times led to question whether the discount is really worth the hassle ."}
+{"aspect": "egroup", "label": "Pos", "sentence": "every egroup that i have been involved with have not been full of spam , useless advertising , or get rich quick schemes ."}
+{"aspect": "a", "label": "Neg", "sentence": "too easy to get an a . you can slide your way to an a with little effort ."}
+{"aspect": "interest rates", "label": "Pos", "sentence": "they also have very competitive interest rates ."}
+{"aspect": "e - groups", "label": "Pos", "sentence": "i and a few friends of mine were involved in a little email circle of our own and my friend who knew about e - groups figured it would be easier if we joined e - groups ."}
+{"aspect": "capella", "label": "Pos", "sentence": "however , at capella you actually have the chance to get out what you put in ."}
+{"aspect": "e*trade", "label": "Neu", "sentence": "my review of e*trade is mixed ."}
+{"aspect": "work", "label": "Pos", "sentence": "i generally find the work and reading to be moderately challenging , and enjoy doing most of it ."}
+{"aspect": "reading", "label": "Pos", "sentence": "i generally find the work and reading to be moderately challenging , and enjoy doing most of it ."}
+{"aspect": "cost", "label": "Neg", "sentence": "the cost of the education is expensive ."}
+{"aspect": "education", "label": "Neg", "sentence": "the cost of the education is expensive ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "otherwise , e*trade has good fundamentals at its site ."}
+{"aspect": "fundamentals", "label": "Pos", "sentence": "otherwise , e*trade has good fundamentals at its site ."}
+{"aspect": "ctu", "label": "Pos", "sentence": "ctu has a north central regional accreditation , but i suppose you know better that the accreditation board ?"}
+{"aspect": "setup", "label": "Pos", "sentence": "the account setup was relatively straightforward , though i had to print and mail the application because they would not accept it on - line then ."}
+{"aspect": "services", "label": "Pos", "sentence": "now , both services offer the same service for the same great price -- free !"}
+{"aspect": "price", "label": "Pos", "sentence": "now , both services offer the same service for the same great price -- free !"}
+{"aspect": "e*trade", "label": "Neg", "sentence": "i 've had brokerage accounts at e*trade , schwab , morgan stanley dean witter , suretrade , and wit capital ; i can honestly say that e*trade is the absolute worst of the five ."}
+{"aspect": "calendar", "label": "Neu", "sentence": "the calendar feature is good but not excellent ."}
+{"aspect": "course", "label": "Pos", "sentence": "i \u2019m very pleased with the course ."}
+{"aspect": "university", "label": "Pos", "sentence": "i can say that studying in the university of phoenix online has been a great experience ."}
+{"aspect": "phoenix", "label": "Pos", "sentence": "i can say that studying in the university of phoenix online has been a great experience ."}
+{"aspect": "customer service", "label": "Neg", "sentence": "their customer service is the worst i have ever encountered ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "have attempted to create sites like this , ecircles has perfected it with creating a visually stimulating interface ."}
+{"aspect": "interface", "label": "Pos", "sentence": "have attempted to create sites like this , ecircles has perfected it with creating a visually stimulating interface ."}
+{"aspect": "instructors", "label": "Neg", "sentence": "the end result is that we get instructors filling in for courses that ned to be taught , but who have less experience that someone normally tecahing that kind of course ."}
+{"aspect": "ctu", "label": "Neu", "sentence": "i \u2019m now approaching the end of my mba program with ctu ."}
+{"aspect": "site", "label": "Neg", "sentence": "the site itself is a little slow , but not overly so ."}
+{"aspect": "ads", "label": "Pos", "sentence": "unfortunately , almost all websites have advertising now , but the ads on e*trade 's site are very unobtrusive ."}
+{"aspect": "e*trade 's site", "label": "Pos", "sentence": "unfortunately , almost all websites have advertising now , but the ads on e*trade 's site are very unobtrusive ."}
+{"aspect": "egroups / onelist", "label": "Pos", "sentence": "first and foremost , let me say that i think egroups / onelist is the best email list server on the internet ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "speaking of events , ecircles is a great way to inform people of what is going on and even for invitations !"}
+{"aspect": "execution", "label": "Pos", "sentence": "execution has been very rapid ( by my standards as someone who probably does n't know how to judge ) : less than 40 seconds on most trades ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "e - trade figures it can go quicken.com one better , considering the fact that it already lets you buy and sell securities for as little as $ 15 a trade and gives you portfolio tracking tools , free checking and money market accounts , its own credit card ."}
+{"aspect": "customer service", "label": "Pos", "sentence": "customer service is much improved ."}
+{"aspect": "loan consultant", "label": "Neg", "sentence": "overall , i considered our loan consultant to be incompetent , indifferent , and unprofessional ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "it turned out that e*trade had executed the limit buy without confirming it after i placed the cancel order . . ."}
+{"aspect": "commissions", "label": "Neg", "sentence": "the trade commissions are high : 19.95 for nasdaq is just too high in comparison with the other brokers !"}
+{"aspect": "group", "label": "Neu", "sentence": "i had a group that showed up on the same monday that a paper was due and expected me to get it together ."}
+{"aspect": "egroups", "label": "Neg", "sentence": "if there is any misstatement of fact here , it is probably because egroups has done a terrible job of informing listowners of what 's up ."}
+{"aspect": "umuc", "label": "Neg", "sentence": "i guess what i find most depressing is the thought of people pursuing their undergraduate degrees at umuc ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "the new egroups is a lot more aesthetically pleasing and makes it even easier for someone to find what they need ."}
+{"aspect": "texts", "label": "Neg", "sentence": "the course texts were too basic , and for intro level students , i expected something more challenging form the umuc experience ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "another bad point is that e*trade is falling behind with offering such services as streaming real time quotes and real time portfolios for everybody ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups really does have something for everybody ."}
+{"aspect": "web interface", "label": "Pos", "sentence": "however , where it performs this particular task , it does so with great efficiency , reliability , and through an easy to follow web interface ."}
+{"aspect": "class material", "label": "Neg", "sentence": "class material is weak , instructors worse ."}
+{"aspect": "instructors", "label": "Neg", "sentence": "class material is weak , instructors worse ."}
+{"aspect": "site", "label": "Pos", "sentence": "the site is huge , has a ton of members , and a lot of very active groups ."}
+{"aspect": "groups", "label": "Pos", "sentence": "the site is huge , has a ton of members , and a lot of very active groups ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "i have found egroups to be easy to run and fun to use ."}
+{"aspect": "execution times", "label": "Pos", "sentence": "the execution times are good ."}
+{"aspect": "lists", "label": "Pos", "sentence": "in short , these lists are great and work nicely . especially if you do n't want to pay for big bucks on the web ."}
+{"aspect": "message archives", "label": "Pos", "sentence": "i think the message archives are thorough , and the polls feature is nifty ."}
+{"aspect": "polls feature", "label": "Pos", "sentence": "i think the message archives are thorough , and the polls feature is nifty ."}
+{"aspect": "team", "label": "Pos", "sentence": "the team is as good as you make it ."}
+{"aspect": "program", "label": "Neg", "sentence": "for a program that serves a lot of military personnel , i did n't find degree programs that supported my military career ."}
+{"aspect": "yahoogroups", "label": "Pos", "sentence": "now that i am used to my new identities , however begrudgingly , i am impressed that yahoogroups has tried to maintain the set - up that egroups had ."}
+{"aspect": "them", "label": "Neg", "sentence": "in fact , it 's been three days now and i 'm still waiting for them to fix this problem ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "generally , i recommend egroups to anyone interested in anything they would like to share with others ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "i 've found that egroups is very good because , if you run a list , it takes a lot of the burden of managing a list away ."}
+{"aspect": "school", "label": "Pos", "sentence": "my summary of the school is that you get what you put in , and there is ample opportunity to get a lot out ."}
+{"aspect": "e - trade", "label": "Neg", "sentence": "so e - trade not only get a poor rating for customer service , they also seem to be looking for any way to skim a pick the pockets of its customers ."}
+{"aspect": "customer service", "label": "Neg", "sentence": "so e - trade not only get a poor rating for customer service , they also seem to be looking for any way to skim a pick the pockets of its customers ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "he also explained that we had day plus three to get a check for $ 5894.95 to e*trade ."}
+{"aspect": "university of phoenix", "label": "Pos", "sentence": "as a hiring manager , i would lean more toward someone with a degree from university of phoenix than one from a state university ."}
+{"aspect": "egroup", "label": "Pos", "sentence": "and it is easy to join an egroup ."}
+{"aspect": "professors", "label": "Pos", "sentence": "i 've rated the professors and staff in the high 90 % ."}
+{"aspect": "staff", "label": "Pos", "sentence": "i 've rated the professors and staff in the high 90 % ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups is a wonderful way to keep in touch with friends and family for certain , however it is also a great place to meet other people with similar interests ."}
+{"aspect": "books", "label": "Neg", "sentence": "problem is this , half the time the books are not avaliable , you need to login everytime you need the books and half the chapters are missing ."}
+{"aspect": "books", "label": "Neg", "sentence": "problem is this , half the time the books are not avaliable , you need to login everytime you need the books and half the chapters are missing ."}
+{"aspect": "code", "label": "Pos", "sentence": "i have n't had any problems signing in and being recognized and if i forget my password , they send the code quickly so i can make a new one ."}
+{"aspect": "ipos", "label": "Pos", "sentence": "the only bright light was ipos ( now about as welcome as jack the ripper ) ."}
+{"aspect": "service", "label": "Neg", "sentence": "i asked for free trades to compensate for their lack of service ."}
+{"aspect": "electronic books", "label": "Neg", "sentence": "the electronic books you are forced to purchase are way over priced and very hard to use effectively ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "as i said earlier , there is one thing that makes egroups better then yahoo ."}
+{"aspect": "service", "label": "Neg", "sentence": "talking about incompetence , abrasiveness and pure worthless service ."}
+{"aspect": "research", "label": "Pos", "sentence": "for information freaks , you can do extensive research - find out what analyst poobah types are saying before you buy ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "at time i ca n't even do a simple thing like checking stock quotes , i mean yahoo a free service with 10 times more users is more reliable than etrade ."}
+{"aspect": "people", "label": "Neg", "sentence": "seriously it is not funny the way these people are over charging and underservicing ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "in addition , e*trade has strategic marketing agreements with first usa credit card and united airlines ."}
+{"aspect": "strategic marketing agreements", "label": "Pos", "sentence": "in addition , e*trade has strategic marketing agreements with first usa credit card and united airlines ."}
+{"aspect": "ctu", "label": "Pos", "sentence": "ctu is a good school , that 's easy , accredited and fairly affordable ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "on the other hand , i understand e - trade has faster services available for its most active traders ."}
+{"aspect": "university of phoenix", "label": "Neu", "sentence": "i 'm currently attending the university of phoenix and will be getting an associates in business this winter ."}
+{"aspect": "digests", "label": "Neg", "sentence": "if people do n't delete the headers and footers of the emails they are replying to , the digests end up being terribly long ."}
+{"aspect": "schools", "label": "Neg", "sentence": "unlike with more old fashioned schools , instructors do n't teach as much as they facilitate information and provide feedback to each student 's research and interpretation of learned materials ."}
+{"aspect": "instructors", "label": "Pos", "sentence": "unlike with more old fashioned schools , instructors do n't teach as much as they facilitate information and provide feedback to each student 's research and interpretation of learned materials ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "even so , it is possible to get hold of loads of research on the e - trade site ."}
+{"aspect": "employees", "label": "Neg", "sentence": "i have to say the employees that supposively work for ctu that are rating the school as bad are full of it !"}
+{"aspect": "ctu", "label": "Neg", "sentence": "i have to say the employees that supposively work for ctu that are rating the school as bad are full of it !"}
+{"aspect": "school", "label": "Neg", "sentence": "i have to say the employees that supposively work for ctu that are rating the school as bad are full of it !"}
+{"aspect": "students", "label": "Neu", "sentence": "one night online all of these students ganged up on me about there grades ."}
+{"aspect": "school", "label": "Neg", "sentence": "overall , i 'm left with having doubts of even attending this school because i have n't even started attending classes yet and i 'm already having this much trouble and its causing so much stress ."}
+{"aspect": "registration form", "label": "Pos", "sentence": "just sign up with a very , very short registration form ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "the fact i was paid $ 75 for opening the account certainly helped my decision to use e*trade services ."}
+{"aspect": "people", "label": "Neg", "sentence": "those that complain the most are often people who attended other b - schools and think graduates from uop are slackers and somehow lowering standards overall ."}
+{"aspect": "uop", "label": "Neu", "sentence": "those that complain the most are often people who attended other b - schools and think graduates from uop are slackers and somehow lowering standards overall ."}
+{"aspect": "people", "label": "Pos", "sentence": "i have found supportive people who are there for me when i need them ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "another problem with e*trade is their option chains do n't have all of the options that are available ."}
+{"aspect": "option chains", "label": "Neg", "sentence": "another problem with e*trade is their option chains do n't have all of the options that are available ."}
+{"aspect": "professors", "label": "Neu", "sentence": "i went to one of the best private universities in the country for my b.a . at both schools i 've had good and bad professors ."}
+{"aspect": "web site", "label": "Pos", "sentence": "its web site provides adequate information to help you make educated guess selecting stocks ."}
+{"aspect": "information", "label": "Pos", "sentence": "its web site provides adequate information to help you make educated guess selecting stocks ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "yes , this was a $ $ 5894.95 lesson to learn and it has caused great anguish and frustration , especially in my contacts with e*trade ."}
+{"aspect": "courses", "label": "Neu", "sentence": "i thought the courses would be more challenging , but because anyone can enroll in a course , the instructors have to dumb it down so everyone can enjoy ."}
+{"aspect": "groups", "label": "Neu", "sentence": "i just wanted to give you an idea of how diverse the groups are ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "i manage a couple lists through egroups and i really like the options they offer to list managers ."}
+{"aspect": "projects", "label": "Neu", "sentence": "the individual projects , often based on simulations , are pertinent to the topic but require you to really think about handling situations ."}
+{"aspect": "university of phoenix", "label": "Neg", "sentence": "i would not recommend the university of phoenix to anyone that is seriously interested in learning ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "all in all , egroups is a very comprehensive and well run site hosting literally thousands of email communities / groups for you to choose from and is a superb way to meet lots of new friends who share your interests ."}
+{"aspect": "classes", "label": "Neg", "sentence": "i 'm in my second block of classes , and to be perfectly honest the classes are way way too easy ."}
+{"aspect": "uop", "label": "Pos", "sentence": "i would recommend uop to a friend ."}
+{"aspect": "discussion", "label": "Pos", "sentence": "i also really like the discussion feature ."}
+{"aspect": "experience", "label": "Pos", "sentence": "i am pleased with my overall experience with uop . ------------------------------ to seanos : i am entering my final class for my master of science in computer information systems with uop ."}
+{"aspect": "uop", "label": "Pos", "sentence": "i am pleased with my overall experience with uop . ------------------------------ to seanos : i am entering my final class for my master of science in computer information systems with uop ."}
+{"aspect": "devry", "label": "Pos", "sentence": "devry is a technical university and we have some of the best labs for cet , eet , ect , even ncm students ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups , now known as onelist , is both fun and informative for me ."}
+{"aspect": "free service", "label": "Pos", "sentence": "it 's a completely free service that lets you set up mailing lists with many features and options ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "easy , e*trade provides a great opportunity for doing so ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "the world of online brokers is a competitive one and despite minor drawbacks , e*trade is one of the best out there ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "e*trade is a fine choice for low maintenance trading ."}
+{"aspect": "ctu", "label": "Neg", "sentence": "yet another coworker completed a ctu software engineering masters and has almost no understanding of computers beyond that of a typical computer user ."}
+{"aspect": "experience", "label": "Pos", "sentence": "my experience so far has been positive ."}
+{"aspect": "egroup", "label": "Pos", "sentence": "i was absolutely thrilled to find an egroup for amc vehicle fans ."}
+{"aspect": "paypal", "label": "Neg", "sentence": "paypal informed me that the item was too big to qualify for their money back guarantee program even though they had offered it ."}
+{"aspect": "devry", "label": "Neg", "sentence": "many of you complaining about devry and some of you even think it is a scam ."}
+{"aspect": "online customer support", "label": "Neg", "sentence": "the online customer support is just unavailable - may as well pick up the phone because that is the only way to get an answer within reasonable time ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "there were other services that offered a trade for less than e*trade 's $ 19.95 charge but after weighing the convenience and the $ 75 , i chose e*trade ."}
+{"aspect": "faculty", "label": "Pos", "sentence": "the faculty in oh was great and so was the administration ."}
+{"aspect": "administration", "label": "Pos", "sentence": "the faculty in oh was great and so was the administration ."}
+{"aspect": "capella", "label": "Neu", "sentence": "there are soldiers in iraq working nights on their degrees at capella ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "i have to give e*trade the lowest rating in the book ."}
+{"aspect": "rating", "label": "Neg", "sentence": "i have to give e*trade the lowest rating in the book ."}
+{"aspect": "ads", "label": "Neg", "sentence": "this varies somewhat over time ; sometimes the ads are fairly unobtrusive at the bottom of messages , while other times they intrude themselves at the top of messages , making the message look a bit like spam ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "it makes a very nice introduction to web communities for somebody who has n't got much web experience . ecircles have a very friendly , homey atmosphere that all my members like ."}
+{"aspect": "atmosphere", "label": "Pos", "sentence": "it makes a very nice introduction to web communities for somebody who has n't got much web experience . ecircles have a very friendly , homey atmosphere that all my members like ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "e*trade also gives its users all kinds of value - added services such as the ability to create \" pretend \" portfolios , generate tax - related reports , and a fairly useful alert feature ."}
+{"aspect": "pretend", "label": "Pos", "sentence": "e*trade also gives its users all kinds of value - added services such as the ability to create \" pretend \" portfolios , generate tax - related reports , and a fairly useful alert feature ."}
+{"aspect": "portfolios", "label": "Pos", "sentence": "e*trade also gives its users all kinds of value - added services such as the ability to create \" pretend \" portfolios , generate tax - related reports , and a fairly useful alert feature ."}
+{"aspect": "tax - related reports", "label": "Pos", "sentence": "e*trade also gives its users all kinds of value - added services such as the ability to create \" pretend \" portfolios , generate tax - related reports , and a fairly useful alert feature ."}
+{"aspect": "alert feature", "label": "Pos", "sentence": "e*trade also gives its users all kinds of value - added services such as the ability to create \" pretend \" portfolios , generate tax - related reports , and a fairly useful alert feature ."}
+{"aspect": "members", "label": "Pos", "sentence": "the members of the group can identify with your fears , being they too experience what your facing ."}
+{"aspect": "email", "label": "Neg", "sentence": "occasionally the email runs a little slow and it seems to have become intermittent since they merged with yahoo !"}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups is also a moderated group , so when one person showed up that i knew was not a friend of ours ( more like a stalker ) it was easy to take care of that problem ."}
+{"aspect": "onelist", "label": "Pos", "sentence": "since then , onelist and egroups merged and there have been some changes , but i 'm very pleased with the service , especially since it 's free !"}
+{"aspect": "egroups", "label": "Pos", "sentence": "since then , onelist and egroups merged and there have been some changes , but i 'm very pleased with the service , especially since it 's free !"}
+{"aspect": "service", "label": "Pos", "sentence": "since then , onelist and egroups merged and there have been some changes , but i 'm very pleased with the service , especially since it 's free !"}
+{"aspect": "devry university", "label": "Pos", "sentence": "devry university is a great investment ."}
+{"aspect": "dialogue", "label": "Pos", "sentence": "there is a lot of dialogue among the students and among the instructors and at least two live sessions per week with instructors ."}
+{"aspect": "uop", "label": "Pos", "sentence": "i have been a student for almost a year at uop and i have had no problems with it ."}
+{"aspect": "telephone calls", "label": "Neg", "sentence": "telephone calls and e - mail to maryland personnel were not responded to ."}
+{"aspect": "e - mail", "label": "Neg", "sentence": "telephone calls and e - mail to maryland personnel were not responded to ."}
+{"aspect": "interface", "label": "Pos", "sentence": "the trading interface is good and easy to understand ."}
+{"aspect": "school", "label": "Pos", "sentence": "i love this school and i think that you all need to give this college credit ."}
+{"aspect": "devry", "label": "Pos", "sentence": "i chose devry because i work 40 - 50 hours per week and i ca n't attend classes in person ( there 's not enough time in the day ! ) , and they also offer a degree that is very specific to my field ."}
+{"aspect": "financial aids", "label": "Neg", "sentence": "i went to the financial aids many time requesting information about my loans and scholarship and where my money is going to but the faculty there never wants to give me the information that should belong to me ."}
+{"aspect": "options", "label": "Neg", "sentence": "there are too many options to select from which many novices will not understand ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups has served me well , most of the time ."}
+{"aspect": "devry", "label": "Pos", "sentence": "i learn more in an 8 week class at devry than probably my whole wasted education at my previous college ."}
+{"aspect": "problem", "label": "Neg", "sentence": "the problem was eventually corrected , but it pissed me off ."}
+{"aspect": "directions", "label": "Pos", "sentence": "i think their directions are detailed and as spot on as can be ."}
+{"aspect": "uop", "label": "Neg", "sentence": "they are all about the money at uop ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "etrade should have offered me an incentive to stay ; i should n't have had to ask ."}
+{"aspect": "students", "label": "Neg", "sentence": "there are students in the very first programming class and even after taking this class twice they can not write a single line of code ."}
+{"aspect": "class", "label": "Neg", "sentence": "there are students in the very first programming class and even after taking this class twice they can not write a single line of code ."}
+{"aspect": "instructor", "label": "Neg", "sentence": "however , one particular ( adjunct ) instructor is very limited when it comes to using a computer and her evaluations and comments are not consistant ."}
+{"aspect": "speed", "label": "Pos", "sentence": "the best part has been the speed of execution ."}
+{"aspect": "capella", "label": "Pos", "sentence": "capella challenges you to do your best ! ! ! ! !"}
+{"aspect": "program", "label": "Neg", "sentence": "their program for financial aide is screwed up ! ! ! and i bet since you work at a hospital ... you get employer repayment or at least half your tutition paid ."}
+{"aspect": "aide", "label": "Neg", "sentence": "their program for financial aide is screwed up ! ! ! and i bet since you work at a hospital ... you get employer repayment or at least half your tutition paid ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "i feel that if you do your research on the egroups , asking lots of questions of the moderator , then you can definitely benefit from them ."}
+{"aspect": "cost", "label": "Neg", "sentence": "it 's not a waste of time .. everyone is always crying and complaining about the cost of the school . every school is costly . i know it 's going to be worth it in the end"}
+{"aspect": "institution", "label": "Neg", "sentence": "perhaps i am cynical , but i am uncomfortable what i see coming out of the institution ."}
+{"aspect": "paypal", "label": "Neg", "sentence": "i do n't know whose fault it is or what causes it , but paypal is a little overrated when it comes to conveniently paying people ."}
+{"aspect": "uop", "label": "Neg", "sentence": "i am sure that people have had bad experiences at uop but students have had bad experiences at every school ."}
+{"aspect": "directions", "label": "Neg", "sentence": "well , they generally get me at least close to where i have to be ( within a few streets ) , and i got a few wrong directions ( replacing \" left \" with \" right \" , for example ) ."}
+{"aspect": "search", "label": "Neg", "sentence": "the search freaks out pretty often too ."}
+{"aspect": "service", "label": "Pos", "sentence": "a small trade off for an otherwise useful service ."}
+{"aspect": "e - groups", "label": "Pos", "sentence": "e - groups covers just about any subject you can think of and is well worth taking time to browse ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "at first i did n't know about ecircles , but after i set up my circle , it was very easy to upload pictures of my new baby boy ."}
+{"aspect": "research", "label": "Neg", "sentence": "often the research is not up - to - date and the worst part recently has been the news ."}
+{"aspect": "news", "label": "Neg", "sentence": "often the research is not up - to - date and the worst part recently has been the news ."}
+{"aspect": "answer", "label": "Neg", "sentence": "i find this an unacceptable answer in today 's market ."}
+{"aspect": "technical support", "label": "Pos", "sentence": "i 've used their technical support once or twice , and they have been responsive and helpful , and got a list back up and running within a couple of hours ."}
+{"aspect": "execution", "label": "Pos", "sentence": "fast execution : i have two accounts , one with datek and one with etrade , and i sometimes place identical trades in both accounts ."}
+{"aspect": "experience", "label": "Pos", "sentence": "my experience has been a very positive one and i hope it stays that way ."}
+{"aspect": "counselors", "label": "Pos", "sentence": "the counselors are wonderful , the faculty overall was good , and very flexible ."}
+{"aspect": "faculty", "label": "Pos", "sentence": "the counselors are wonderful , the faculty overall was good , and very flexible ."}
+{"aspect": "uop", "label": "Neu", "sentence": "i really think that the topic of uop is 50 - 50 ; it goes both ways and there will never be a wrong or a right answer ."}
+{"aspect": "teachers", "label": "Pos", "sentence": "the teachers are very helpful , and the staff is , as well ."}
+{"aspect": "staff", "label": "Pos", "sentence": "the teachers are very helpful , and the staff is , as well ."}
+{"aspect": "ctu", "label": "Pos", "sentence": "i found ctu as a great alternative ."}
+{"aspect": "school", "label": "Neg", "sentence": "out of all the professor , i 'd say two actually cared about the students ' well - being . . and yes , they left the school already because they knew what a fraud the school has become ."}
+{"aspect": "e*trade 's product", "label": "Pos", "sentence": "i have been investing for over 20 years , and am very impressed with e*trade 's product ."}
+{"aspect": "uop instructor", "label": "Pos", "sentence": "it 's an exception to find a uop instructor who is fully competent ."}
+{"aspect": "resource charge", "label": "Neg", "sentence": "there is a resource charge of $ 70.00 and i have to ask what that is for ."}
+{"aspect": "organization", "label": "Neg", "sentence": "i would not want to work for such a two - faced , deceptive organization again ."}
+{"aspect": "calendars", "label": "Pos", "sentence": "you can set up surveys for your lists and also calendars ."}
+{"aspect": "umuc administrators", "label": "Pos", "sentence": "umuc administrators tended to supply larger communities with more choices of f2f courses ."}
+{"aspect": "cancel", "label": "Pos", "sentence": "i can cancel a trade with no problems ."}
+{"aspect": "power of attorney", "label": "Pos", "sentence": "we selected them simply because they allowed us to use a power of attorney for closing ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "another terrible thing about e*trade is that you ca n't buy a stock and send the money later ."}
+{"aspect": "password", "label": "Neg", "sentence": "other negatives : you need to enter your password each time you place , change or cancel an order ."}
+{"aspect": "email list", "label": "Pos", "sentence": "being able to run an email list for free was excellent ."}
+{"aspect": "e - trade", "label": "Neg", "sentence": "e - trade does not update your portfolio in real - time however ."}
+{"aspect": "service", "label": "Pos", "sentence": "the service supports many different types of lists -- announcement , discussion , or moderated -- and it supports each of them extremely well ."}
+{"aspect": "group work", "label": "Neg", "sentence": "another huge turnoff was the group work ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "i am a member of 19 egroups and i have met so many great people !"}
+{"aspect": "ctu", "label": "Pos", "sentence": "i too experienced ctu as an instructor for one and only one semester ."}
+{"aspect": "uop", "label": "Pos", "sentence": "all undergrad degrees are about accomplishing goals and the uop helps people achieve those goals just as much as any other school ."}
+{"aspect": "uop", "label": "Neg", "sentence": "i will never recommend uop to anyone ."}
+{"aspect": "class material", "label": "Pos", "sentence": "the class material is just as indepth and challenging as i have taken at the university of illinois and far more challenging than my local community college ."}
+{"aspect": "experience", "label": "Neg", "sentence": "my experience at devry is by far one of the worst i 've had ."}
+{"aspect": "devry", "label": "Neg", "sentence": "my experience at devry is by far one of the worst i 've had ."}
+{"aspect": "yahoogroups", "label": "Neu", "sentence": "however , everyone else in the club is relatively new to the internet ( from 1 week to 1 year ) , and yahoogroups mystified them ."}
+{"aspect": "customer service", "label": "Pos", "sentence": "customer service has been pretty decent , if a bit slow ."}
+{"aspect": "service", "label": "Pos", "sentence": "another neat service etrade has is atm machines around the country ."}
+{"aspect": "dean", "label": "Neg", "sentence": "i had to escalate to the dean several times to get any satisfaction ."}
+{"aspect": "school", "label": "Pos", "sentence": "the school gives students a knowledge base that makes them extremely competitive in the corporate world ."}
+{"aspect": "financial aid", "label": "Neg", "sentence": "cons : many of you have had problems with the financial aid ."}
+{"aspect": "assignments", "label": "Neg", "sentence": "these assignments are worthless past the first few classes ."}
+{"aspect": "uop", "label": "Pos", "sentence": "i did a lot of research before enrolling and uop seemed to be the only thing that was going to work for me ."}
+{"aspect": "teacher", "label": "Neg", "sentence": "there is a teacher of african american history under fire because his experience in that field is questionable ."}
+{"aspect": "experience", "label": "Neg", "sentence": "there is a teacher of african american history under fire because his experience in that field is questionable ."}
+{"aspect": "new site", "label": "Pos", "sentence": "the new site is even better ."}
+{"aspect": "e - trade", "label": "Neg", "sentence": "on the negative side , i find that e - trade can be very slow ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "i would not even recommend e*trade to my enemies ."}
+{"aspect": "site", "label": "Pos", "sentence": "this site is one of only a few free services provided on the web that is actually worthwhile ."}
+{"aspect": "people", "label": "Neg", "sentence": "these people have not taken classes at uop and are making blanket statements about uop just because it is not a traditional school ."}
+{"aspect": "uop", "label": "Neg", "sentence": "these people have not taken classes at uop and are making blanket statements about uop just because it is not a traditional school ."}
+{"aspect": "uop", "label": "Neu", "sentence": "education is what you put into it and the uop is no different ."}
+{"aspect": "capella university", "label": "Neg", "sentence": "capella university is a joke ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups offers free mailing list hosting , along with file storage , and polls , and chat , and calendars ."}
+{"aspect": "program", "label": "Neg", "sentence": "i wish i 'd never started the program ."}
+{"aspect": "paypal", "label": "Pos", "sentence": "i 've only recently opened a paypal account , and so far i 've been extremely satisfied ."}
+{"aspect": "service", "label": "Pos", "sentence": "overall , i think that the service is adequate , and the prices reasonable , but there is still some work to be done ."}
+{"aspect": "prices", "label": "Pos", "sentence": "overall , i think that the service is adequate , and the prices reasonable , but there is still some work to be done ."}
+{"aspect": "coursework", "label": "Pos", "sentence": "by the end of each course , i would look back at the coursework i completed , and would be so amazed at the ground covered and the knowledge gained ."}
+{"aspect": "people", "label": "Neu", "sentence": "the hold is a minimum of 45 minutes to talk to very nice people who have no idea how to help ."}
+{"aspect": "capella", "label": "Neg", "sentence": "i tried capella because i believed in online education , but given my experiences i would not recommend them ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "i was appalled to find that e*trade did not offer it ."}
+{"aspect": "material", "label": "Pos", "sentence": "it is fast - paced and rigorous , but good material that has helped me already in the business world ."}
+{"aspect": "uop", "label": "Pos", "sentence": "i have to give uop a four star rating ."}
+{"aspect": "course", "label": "Neg", "sentence": "period ! ! i am not paying $ 1300 for a course to have some semi - literate , low self - esteem person affect my grade ."}
+{"aspect": "person", "label": "Neg", "sentence": "period ! ! i am not paying $ 1300 for a course to have some semi - literate , low self - esteem person affect my grade ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "i was a huge fan of e - trade , mainly because i was able to keep my savings account somewhat liquid in a california exempt tax money market ."}
+{"aspect": "site response", "label": "Pos", "sentence": "site response is superior to waterhouse , and i do n't see it being beat by other online services ."}
+{"aspect": "coursework", "label": "Neg", "sentence": "the coursework is challenging and you will get what you put into it ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "ecircles is a flexible community service that allows you to stay in touch with friends and family ."}
+{"aspect": "ctu", "label": "Pos", "sentence": "i attend ctu and it is an excellent school ."}
+{"aspect": "digital transaction", "label": "Neg", "sentence": "it 's a shame that a digital transaction can take a week or more ... i could send a check in that time ."}
+{"aspect": "school", "label": "Neg", "sentence": "if you have any sense at all , do not attend this school ."}
+{"aspect": "simulations", "label": "Pos", "sentence": "the simulations are great and other than one facilitator , i have been more than pleased ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "ecircles lets families enjoy and share photos , create a web page , a family calendar , schedule private chats , etc ."}
+{"aspect": "loan processor", "label": "Neg", "sentence": "when i went further up the chain of my loan team , i eventually found out that the loan was kicked back for a minor paperwork mistake that could and should have been caught by e*trade 's loan processor ."}
+{"aspect": "quizzes", "label": "Neg", "sentence": "online quizzes and tests are often very badly written , and i have yet to have a single instructor who was willing to say \" yeah , that was n't the best way to ask that question . \""}
+{"aspect": "tests", "label": "Neg", "sentence": "online quizzes and tests are often very badly written , and i have yet to have a single instructor who was willing to say \" yeah , that was n't the best way to ask that question . \""}
+{"aspect": "instructor", "label": "Pos", "sentence": "online quizzes and tests are often very badly written , and i have yet to have a single instructor who was willing to say \" yeah , that was n't the best way to ask that question . \""}
+{"aspect": "etrade", "label": "Pos", "sentence": "etrade gives you a $ 75 bonus upon establishing an account ."}
+{"aspect": "bonus", "label": "Pos", "sentence": "etrade gives you a $ 75 bonus upon establishing an account ."}
+{"aspect": "experiences", "label": "Pos", "sentence": "i have had some great educational experiences here at umuc ."}
+{"aspect": "umuc", "label": "Pos", "sentence": "i have had some great educational experiences here at umuc ."}
+{"aspect": "etrade", "label": "Pos", "sentence": "i have to admit etrade is one of the better on - line brokerages available in the market today ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "i hope e - trade will not let me down because so far i am having a blast ."}
+{"aspect": "devry", "label": "Neg", "sentence": "with devry making me take my bmi courses online and just basically alienating me i say that they are not doing a good job ."}
+{"aspect": "e - trade service", "label": "Neg", "sentence": "e - trade service is really bad read for yourself ."}
+{"aspect": "materials", "label": "Pos", "sentence": "the materials are real world and relevant with significant opportunity to tie in your personal and work experiences ."}
+{"aspect": "uop", "label": "Pos", "sentence": "though i have not taken a class with uop , i have rated it a 5 star because i think it 's providing students like myself with a great opportunity to further their education without compromising their careers or family lives ."}
+{"aspect": "yahoogroups", "label": "Pos", "sentence": "i 've been on the internet for several years , and i have no problem with yahoogroups ."}
+{"aspect": "course", "label": "Pos", "sentence": "most of the course i have taken were well structured and facilitated learning ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "e*trade allowed us to use a power of attorney which greatly simplified the process for us ."}
+{"aspect": "power of attorney", "label": "Pos", "sentence": "e*trade allowed us to use a power of attorney which greatly simplified the process for us ."}
+{"aspect": "promotions", "label": "Neu", "sentence": "the promotions that they have ( i.e . giving $ 75 to $ 100 , depending when you signed up ) is not too shabby either ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "i really do love egroups ."}
+{"aspect": "devry", "label": "Pos", "sentence": "i was suckered by a traditional college that did nothing to prepare me for the field i was studying ; devry on the other hand is actually preparing me for my intended field as well as educating me on other aspects meaning there is more than one field i could go into ."}
+{"aspect": "site", "label": "Pos", "sentence": "i highly recommend this site to older children and teenagers ."}
+{"aspect": "classes", "label": "Neg", "sentence": "the classes i had were worthless ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups does have a page that makes you consent to viewing the adult pictures before you can view it the questionable material ."}
+{"aspect": "institution", "label": "Neg", "sentence": "avoid this institution if you are a canadian student ! ! ! !"}
+{"aspect": "website", "label": "Pos", "sentence": "their website contains a lot of information which can really help with deciding just when to pull the trigger on that big trade ."}
+{"aspect": "information", "label": "Pos", "sentence": "their website contains a lot of information which can really help with deciding just when to pull the trigger on that big trade ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "i think egroups could do a better job of moderating these lists ."}
+{"aspect": "support reps", "label": "Neg", "sentence": "there support reps ( probably outsourced ? )"}
+{"aspect": "university", "label": "Pos", "sentence": "i have been attending this university for 6 months now and have had a wonderful experience ."}
+{"aspect": "experience", "label": "Pos", "sentence": "i have been attending this university for 6 months now and have had a wonderful experience ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "e*trade was just as bad for funding an account ."}
+{"aspect": "funding", "label": "Neg", "sentence": "e*trade was just as bad for funding an account ."}
+{"aspect": "list", "label": "Pos", "sentence": "i started out on a list for 1995 children ( children born in the year 1995 ) and it was a wonderful way to share ideas and just chat with other women ."}
+{"aspect": "e - groups", "label": "Pos", "sentence": "e - groups is a wonderful way to meet people who share your interests , to get support for a common problem or illness or to talk about hobbies , careers , current events , sports , family , etc . . . ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "i started an e*trade account in the middle of last year and really enjoy it ."}
+{"aspect": "e - mail customer service response time", "label": "Neg", "sentence": "around 24 hours , e - mail customer service response time was slower than"}
+{"aspect": "experiences", "label": "Neg", "sentence": "i am very upset to hear about all of the unhappy experiences at the school ."}
+{"aspect": "school", "label": "Neg", "sentence": "i am very upset to hear about all of the unhappy experiences at the school ."}
+{"aspect": "allocation", "label": "Neg", "sentence": "but with the large number of etrade customers , it is very difficult to receive any allocation of ipos ."}
+{"aspect": "school", "label": "Pos", "sentence": "i would highly recommend this school ."}
+{"aspect": "course", "label": "Neu", "sentence": "often you have no idea what your final grade is for a course because of these pitfalls until well into the next semester ."}
+{"aspect": "uop", "label": "Neu", "sentence": "i 'm beginning the health administration at uop and i start next week ."}
+{"aspect": "projects", "label": "Neg", "sentence": "the group projects were unbelievable , the subject matter completely useless , and the instructor was less than helpful , not to mention 2yrs later i am still getting spam mail from uop ."}
+{"aspect": "subject matter", "label": "Neg", "sentence": "the group projects were unbelievable , the subject matter completely useless , and the instructor was less than helpful , not to mention 2yrs later i am still getting spam mail from uop ."}
+{"aspect": "instructor", "label": "Neg", "sentence": "the group projects were unbelievable , the subject matter completely useless , and the instructor was less than helpful , not to mention 2yrs later i am still getting spam mail from uop ."}
+{"aspect": "mail", "label": "Neg", "sentence": "the group projects were unbelievable , the subject matter completely useless , and the instructor was less than helpful , not to mention 2yrs later i am still getting spam mail from uop ."}
+{"aspect": "uop", "label": "Neg", "sentence": "the group projects were unbelievable , the subject matter completely useless , and the instructor was less than helpful , not to mention 2yrs later i am still getting spam mail from uop ."}
+{"aspect": "down time", "label": "Pos", "sentence": "it runs fairly smooth most of the time with little down time ."}
+{"aspect": "lists", "label": "Pos", "sentence": "the lists i 've mentioned here are some of my favorites and i highly recommend them ."}
+{"aspect": "recruiters / finance", "label": "Neu", "sentence": "i would say the recruiters / finance and advising groups were all as pushy as the other and \" brick and mortar \" schools ca n't even compare to the curriculum that i received and will continue to receive at ctu online !"}
+{"aspect": "peers", "label": "Neg", "sentence": "and of course , there is the issue with the intelligence of your peers ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "so in short if you 're just getting started in online investing , and need a safe place to stick your hard - earned pesos , consider e*trade ."}
+{"aspect": "instructor", "label": "Neg", "sentence": "the class i just finished the instructor showed slides and then proceeded to just read them ."}
+{"aspect": "uofp", "label": "Pos", "sentence": "uofp is an excellent school ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "e*trade offers its own mutual funds and a large selection of other mutual funds - often more than other brokerages ( compared to datek as of end of 1999 ) ."}
+{"aspect": "classes", "label": "Pos", "sentence": "overall , the classes provide good information ."}
+{"aspect": "loan consultant", "label": "Neg", "sentence": "our loan consultant did n't even feel obligated to call us with an explanation , and his supervisor was not aware that the signing did n't take place until we called to inquire ."}
+{"aspect": "biology teacher", "label": "Neg", "sentence": "i also had a problem with a biology teacher ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups has a feature which enables you to do so simply by entering the email addresses of those you wish to invite- up to 50 at a time ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "i am not aware of any other discount brokerage that offers ipos or does it as conveniently and timely as e*trade ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "so , no matter what your interest is , egroups sure won ?"}
+{"aspect": "offer", "label": "Neg", "sentence": "worse yet , i sent my check in with an offer to add $ 75 to my account as a sign - up bonus , and they failed to honor their offer ."}
+{"aspect": "offer", "label": "Neg", "sentence": "worse yet , i sent my check in with an offer to add $ 75 to my account as a sign - up bonus , and they failed to honor their offer ."}
+{"aspect": "uop", "label": "Pos", "sentence": "iam speaking from experience here and uop has helped me in my career and you do learn new things ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "well , thanks to egroups ( onelist at this time ) , i did n't go crazy ! ! !"}
+{"aspect": "university", "label": "Neg", "sentence": "it is impossible to be successful at this university or to learn everything ."}
+{"aspect": "ctu", "label": "Pos", "sentence": "two out of the three colleges that i went to said that they would accept the credits that i earned at ctu online ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "i found egroups over a year ago when it was still onelist i started when i had recently been to an alanis morissette concert , and i was having so much fun ."}
+{"aspect": "onelist", "label": "Pos", "sentence": "i found egroups over a year ago when it was still onelist i started when i had recently been to an alanis morissette concert , and i was having so much fun ."}
+{"aspect": "uop", "label": "Neu", "sentence": "i just finished my aa in business / general studies through uop ( axia ) ."}
+{"aspect": "educard program", "label": "Pos", "sentence": "they have this wonderful educard program they try to sell you the problem in my experience is they got it wrong ."}
+{"aspect": "courses", "label": "Neu", "sentence": "the lower division courses were n't terribly challenging ; however later core classes have been challenging and full of real world knowledge ."}
+{"aspect": "classes", "label": "Neu", "sentence": "the lower division courses were n't terribly challenging ; however later core classes have been challenging and full of real world knowledge ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "as far as e*trade itself , i have always been pleased with my time at their website ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "e - trade is a pretty comprehensive site when it comes to making research available ."}
+{"aspect": "stories of phoenix applicants", "label": "Neg", "sentence": "as far as i can ascertain , stories of phoenix applicants being turned away are just silly ."}
+{"aspect": "graphs", "label": "Pos", "sentence": "they now have graphs that displays your portfolio value over time ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups was a good service , but the few changes that have taken place since yahoo !"}
+{"aspect": "yahoo", "label": "Neg", "sentence": "egroups was a good service , but the few changes that have taken place since yahoo !"}
+{"aspect": "keller", "label": "Pos", "sentence": "as a matter of fact , i 'm currently attending keller in phx for my mism and have been impressed ."}
+{"aspect": "ratings", "label": "Neg", "sentence": "i wonder how many of the people posting negative ratings here have obtained a degree at all ."}
+{"aspect": "umuc", "label": "Neu", "sentence": "there are mixed reviews from students that have attended umuc ."}
+{"aspect": "diversity", "label": "Pos", "sentence": "where else can you find such amazing diversity ?"}
+{"aspect": "customer service", "label": "Neg", "sentence": "this absurd nightmare was undoubtedly the worst handling of a customer service issue that i have ever experienced ."}
+{"aspect": "ctu", "label": "Pos", "sentence": "i think ctu is great !"}
+{"aspect": "glossary of terms", "label": "Pos", "sentence": "facilities including a comprehensive glossary of terms , faqs , and a forum"}
+{"aspect": "faqs", "label": "Pos", "sentence": "facilities including a comprehensive glossary of terms , faqs , and a forum"}
+{"aspect": "financial aid counsler", "label": "Pos", "sentence": "but i have spoken to my financial aid counsler and she has been very helpful so far ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "most people said a credit union would give me the best rate , however , several people told me that e*trade would beat any bank hands down ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "now , with the egroups service , all of those options are still available , along with tons of other options ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "for discussions that do n't really fit into announcements , ecircles offers discussions ( man , they 're good ) ."}
+{"aspect": "site", "label": "Pos", "sentence": "i do n't recall exactly how i found this site , but i love it ."}
+{"aspect": "etrade", "label": "Pos", "sentence": "and with etrade it only costs $ 20.00 per trade and $ 50.00 with the others ."}
+{"aspect": "larger groups", "label": "Pos", "sentence": "the larger groups , 70 to 100 or more , are definitely active ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "this order should not have gone through , because i did not have enough money to buy those shares , yet etrade went ahead and executed the order ."}
+{"aspect": "paypal", "label": "Pos", "sentence": "i reported the problem to paypal and they did all the investigating and insured the seller refunded my money ."}
+{"aspect": "program", "label": "Pos", "sentence": "so , far i have been challenged and pleased with professionalism , content , and quality of the program so far ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "where the more established companies do n't have such benefits , e*trade is constantly running offers , so take advantage of one if you want to sign up ."}
+{"aspect": "offers", "label": "Pos", "sentence": "where the more established companies do n't have such benefits , e*trade is constantly running offers , so take advantage of one if you want to sign up ."}
+{"aspect": "characters", "label": "Pos", "sentence": "they 're presented as characters , which is fun ."}
+{"aspect": "price execution", "label": "Pos", "sentence": "price execution is pretty decent ."}
+{"aspect": "digest form", "label": "Pos", "sentence": "i like the digest form best ."}
+{"aspect": "advisor", "label": "Pos", "sentence": "i finally got a good advisor , but by that time my f.a . expired and i had to move on with around 5 course left to graduate ."}
+{"aspect": "etrade 's web site", "label": "Neg", "sentence": "for people with no life and who do n't mind constantly reloading etrade 's web site to get the latest ipo news then this is for you ."}
+{"aspect": "professors", "label": "Pos", "sentence": "it has both excellent and mediocre professors ."}
+{"aspect": "uop", "label": "Neg", "sentence": "i did not apply to uop to do group work all the time ."}
+{"aspect": "online counslor", "label": "Neg", "sentence": "well , the online counslor pissed me off so bad , i refused to attend ."}
+{"aspect": "pricing", "label": "Pos", "sentence": "the pricing structure for the trades on e - trade is fair ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "the pricing structure for the trades on e - trade is fair ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "this tells me that there is definitely wrong with the etrade system ."}
+{"aspect": "umuc", "label": "Neg", "sentence": "that umuc is accredited raises some serious questions about the state of academia and the trend towards distance education ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "then the share value dropped and etrade notified me after a few month that i had to pay back the money they \" lent \" me ."}
+{"aspect": "online service", "label": "Pos", "sentence": "as time has passed , i 've learned that their online service is average at best and in some cases they simply underperform ."}
+{"aspect": "uop", "label": "Pos", "sentence": "you can learn a lot from uop online if you put in the effort ."}
+{"aspect": "group", "label": "Pos", "sentence": "it 's also very easy to start a group of your own ."}
+{"aspect": "unversity", "label": "Neg", "sentence": "despite all those bad comments on the unversity , i have read a couple of good ones explaining most of those negative comments and essentially making the writers of the negative opinions sound like lazy people ."}
+{"aspect": "yahoo", "label": "Neg", "sentence": "the major problem one might have with egroups is that it is owned by yahoo !"}
+{"aspect": "college", "label": "Neg", "sentence": "this college robs them of the chance by convincing them they are accomplishing something while it promotes cheating and nonperformance ."}
+{"aspect": "etrade", "label": "Pos", "sentence": "etrade offers more than just that , they have banking ( which a friend has told me is quite good ) , and they have a lending section as well ( which i have not ever even glanced at , so i have no clue there ) ."}
+{"aspect": "banking", "label": "Pos", "sentence": "etrade offers more than just that , they have banking ( which a friend has told me is quite good ) , and they have a lending section as well ( which i have not ever even glanced at , so i have no clue there ) ."}
+{"aspect": "service", "label": "Pos", "sentence": "you have a group of people setup on this service and you can send invitations very easily ."}
+{"aspect": "advertising", "label": "Neg", "sentence": "the advertising is even unobtrusive ."}
+{"aspect": "technology", "label": "Pos", "sentence": "the deliver technology is good and has gotten better since i started in the program , especially with some of the materials and research resources ."}
+{"aspect": "e*trade", "label": "Neu", "sentence": "this is not to say that there are n't nice things about e*trade ."}
+{"aspect": "uop", "label": "Neg", "sentence": "i never thought a university such as uop could be so dishonest and untrustworthy as they are ."}
+{"aspect": "classes", "label": "Pos", "sentence": "the classes are great , with a relatively small number of students per class ."}
+{"aspect": "yahoo groups", "label": "Pos", "sentence": "yahoo groups is easy to navigate ."}
+{"aspect": "pages", "label": "Neg", "sentence": "our mac users actually had trouble getting pages to load at all sometimes , though they found things worked better if they were using explorer as a browser ."}
+{"aspect": "research", "label": "Pos", "sentence": "research , quotes and portfolio services are all fine , even dandy , but nothing one ca n't get elsewhere for free , such as at quicken.com ."}
+{"aspect": "quotes", "label": "Pos", "sentence": "research , quotes and portfolio services are all fine , even dandy , but nothing one ca n't get elsewhere for free , such as at quicken.com ."}
+{"aspect": "portfolio services", "label": "Pos", "sentence": "research , quotes and portfolio services are all fine , even dandy , but nothing one ca n't get elsewhere for free , such as at quicken.com ."}
+{"aspect": "experience", "label": "Neg", "sentence": "after my poor experience with capella university , i would not recommend it to anyone who desires a real education - find a traditional school for that ."}
+{"aspect": "capella university", "label": "Neg", "sentence": "after my poor experience with capella university , i would not recommend it to anyone who desires a real education - find a traditional school for that ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "there is so much variety offered through egroups and so easy to use , that it is my main source of lists which i either moderate or belong to ."}
+{"aspect": "trades", "label": "Pos", "sentence": "i have found that trades are executed very quickly , within 5 seconds usually for me ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "i find e - trade very easy to use ."}
+{"aspect": "wedding group", "label": "Pos", "sentence": "with my wedding group , it is so much fun , exchanging wedding websites with the girls , and learning about their weddings ."}
+{"aspect": "ctu", "label": "Pos", "sentence": "i have learned so much , and i apply it to my every day job with the us government . . which by the way has actually recommended ctu as a school . . ."}
+{"aspect": "devry", "label": "Pos", "sentence": "this is the other reason devry sounds appealing ."}
+{"aspect": "teacher", "label": "Neg", "sentence": "in a related incident in de psych 436 introduction to clinical psychology upper - level undergraduate students learned from another teacher that their clinical psychology teacher , m . sadler , had a degree in psychology but also that his license to practice had been revoked for unprofessional and unethical conduct ."}
+{"aspect": "site", "label": "Pos", "sentence": "when i get to the site there are links to my groups i am already in as well as a search feature towards the top of the page so i can find more groups to join if i so desire ."}
+{"aspect": "website", "label": "Pos", "sentence": "the website is really easy to navigate ."}
+{"aspect": "school", "label": "Neu", "sentence": "one thing you must understand about this school is that no one will hold your hand and make sure you do your work ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups has got to be one of my favorite places on the web ."}
+{"aspect": "capella university", "label": "Neg", "sentence": "capella university was a complete waste of time and money ."}
+{"aspect": "groups", "label": "Neg", "sentence": "i have encountered some even stranger groups , so i put the family filter on to avoid the weird sites all together ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "some of the best egroups that i 've been in have been referred from other egroups so if one gets boring or too off topic a couple mouseclicks can fix that ."}
+{"aspect": "support system", "label": "Pos", "sentence": "we have been a great support system for each other and i truly think we have been a tremendous help to one other ."}
+{"aspect": "uop", "label": "Neg", "sentence": "but be careful with uop online , they have really given themselves a bad reputation and no amount of 5 start postings will make up for it ."}
+{"aspect": "chat facility", "label": "Pos", "sentence": "there is a facility for members to store photographs and files , a calendar where you and your members can highlight important dates and events and a very useful chat facility where you can all get together for an online natter ."}
+{"aspect": "mapquest", "label": "Neg", "sentence": "i found it ironic that an internet powerhouse such as inktomi would not be indexed properly on mapquest . . ."}
+{"aspect": "discussions", "label": "Pos", "sentence": "i also enjoy the great discussions ."}
+{"aspect": "members", "label": "Neu", "sentence": "i also felt that some members were not pulling their weight ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups ( formerly known as onelist ) is a great website service invention !"}
+{"aspect": "trades", "label": "Neg", "sentence": "on the negative side , however , trades are a little more expensive than is typical on the web . $ 14.95 for nyse market orders , $ 19.95 for nasdaq market orders and all limit orders ."}
+{"aspect": "archives", "label": "Pos", "sentence": "the archives are surprisingly easy to search , and archive searches are accurate ."}
+{"aspect": "searches", "label": "Pos", "sentence": "the archives are surprisingly easy to search , and archive searches are accurate ."}
+{"aspect": "devry 's employee", "label": "Neg", "sentence": "devry 's employee are lazy and incompetent ."}
+{"aspect": "lists", "label": "Pos", "sentence": "some of the lists that i 'm on are extremely high volume ( 5 - 100 + messages per day ) , and they still distribute messages almost instantaneously ."}
+{"aspect": "pacbell dsl", "label": "Neg", "sentence": "recently , they have also started offering free dsl , but i would not recommend pacbell dsl , even if it 's free ."}
+{"aspect": "website", "label": "Pos", "sentence": "for basic trading , the website is set up so that it is very easy to navigate ."}
+{"aspect": "devry", "label": "Neg", "sentence": "you might be surprised to find out that devry is not a push over ."}
+{"aspect": "quickies", "label": "Pos", "sentence": "cousins chat on here a lot and it 's a funny bunch of \" quickies \" that they offer you to use ."}
+{"aspect": "course", "label": "Pos", "sentence": "it takes hardwork and focus to stay on course but the results are extremely rewarding ."}
+{"aspect": "results", "label": "Pos", "sentence": "it takes hardwork and focus to stay on course but the results are extremely rewarding ."}
+{"aspect": "devry", "label": "Neg", "sentence": "devry is just a mere institution ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "i opened my first on - line brokerage account with e - trade , and although i do n't do much actual trading there , i 'm not planning to close it or transfer it anytime soon ."}
+{"aspect": "university", "label": "Pos", "sentence": "the university does a fine job of providing distance graduate education ."}
+{"aspect": "distance graduate education", "label": "Pos", "sentence": "the university does a fine job of providing distance graduate education ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "so for the past few months , i 've been a member of egroups , and i 'm enjoying every part of it !"}
+{"aspect": "books", "label": "Neg", "sentence": "sometimes , the books assigned to a course are sub par ( and i stress somtimes ) , grades for some courses come in slowly ( really annoying ) , and \u201c in - class \u201d courses get canceled often ( in europe ) ."}
+{"aspect": "grades", "label": "Neg", "sentence": "sometimes , the books assigned to a course are sub par ( and i stress somtimes ) , grades for some courses come in slowly ( really annoying ) , and \u201c in - class \u201d courses get canceled often ( in europe ) ."}
+{"aspect": "quotes", "label": "Neg", "sentence": "their live streaming quotes do not work with my network at my office due to firewall issues so that is a bit of a bait and switch as they advertise this as a major benefit ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "e*trade is just too expensive and you do n't get anything out the ordinary for your money , just higher commission charges !"}
+{"aspect": "commission charges", "label": "Neg", "sentence": "e*trade is just too expensive and you do n't get anything out the ordinary for your money , just higher commission charges !"}
+{"aspect": "customer service helpline", "label": "Pos", "sentence": "the best part of being a power customer is the customer service helpline , they practically answer the phone in 30 seconds , as opposed to long waits on the regular line ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups has a lot less of these people then yahoo ."}
+{"aspect": "posts", "label": "Pos", "sentence": "i have found it to be much better to submit posts from the egroups site ."}
+{"aspect": "egroups site", "label": "Pos", "sentence": "i have found it to be much better to submit posts from the egroups site ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "when my assets were finally transferred into etrade , they took more than twice the promise time to pay the incentive ."}
+{"aspect": "ads", "label": "Neu", "sentence": "but the ads are always brief , so it 's not that much of a nuisance ."}
+{"aspect": "choices", "label": "Pos", "sentence": "both are excellent choices for on - line brokers and aim at very different markets ."}
+{"aspect": "on - line brokers", "label": "Pos", "sentence": "both are excellent choices for on - line brokers and aim at very different markets ."}
+{"aspect": "deadline", "label": "Neg", "sentence": "the next day he called me and started to chew me out for missing the deadline ? ? ? ?"}
+{"aspect": "e*trade", "label": "Pos", "sentence": "i 've never experienced a time when e*trade was perceptably slow ( let alone unavailable ) even during a busy market ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "i called etrade and the customer service rep told me that they never sent a charge of $ 60 to my new brokerage firm and that it was deducted before the transfer ( pretty much implying that my new brokerage firm was lying about the charge ) ."}
+{"aspect": "discussions", "label": "Pos", "sentence": "it is imperative ( to your grade ) that you participate in discussions ; there is a lot of knowledge and experience imparted in these discussions ; much more so than i would have received in a traditional brick and mortar classroom setting ."}
+{"aspect": "letter", "label": "Neg", "sentence": "next thing i know , there 's a letter in the mail from a collection agency saying i still owe ctu the money ."}
+{"aspect": "ctu", "label": "Neg", "sentence": "next thing i know , there 's a letter in the mail from a collection agency saying i still owe ctu the money ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "e - trade also offers specials to new customers ."}
+{"aspect": "discussion", "label": "Pos", "sentence": "and the nice thing is , your discussion remains on topic because everyone is there for the same reason ."}
+{"aspect": "charts", "label": "Neg", "sentence": "charts are slow to load and until recently they had no ta charts ."}
+{"aspect": "groups", "label": "Neg", "sentence": "also , you may find that there are a lot of groups that are not appropriate to all members of your household ."}
+{"aspect": "yahoo groups", "label": "Neg", "sentence": "i have seen people get their feelings hurt all the time in yahoo groups ."}
+{"aspect": "trades", "label": "Neg", "sentence": "the other pitfall , is one i hear from other users , and have yet to experience myself , is delayed trades ."}
+{"aspect": "staff", "label": "Pos", "sentence": "the staff is nice enough but there does n't appear to be much of a process for quality control at this school ."}
+{"aspect": "quality control", "label": "Neg", "sentence": "the staff is nice enough but there does n't appear to be much of a process for quality control at this school ."}
+{"aspect": "student", "label": "Neu", "sentence": "this is a masters degree program and every student should stand on their own two feet and get the work done ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "all you have to do is sign up ... it is free ... list the e - mail addresses of whomever you wish to invite to join your circle , and ecircles does the rest ."}
+{"aspect": "yahoogroups", "label": "Pos", "sentence": "yahoogroups did a relatively competent job of merging the two companies ."}
+{"aspect": "ctu", "label": "Pos", "sentence": "my husband is a graduate of ctu with a master 's in software engineering ."}
+{"aspect": "master 's", "label": "Pos", "sentence": "my husband is a graduate of ctu with a master 's in software engineering ."}
+{"aspect": "school", "label": "Pos", "sentence": "i would reccomend the school if you do n't have time to go to a traditional school ."}
+{"aspect": "ctu", "label": "Neu", "sentence": "i went to ut austin for my undergraduate bs comp sci , and i can tell you that the quality of education between ctu and ut is similar ."}
+{"aspect": "ut", "label": "Neu", "sentence": "i went to ut austin for my undergraduate bs comp sci , and i can tell you that the quality of education between ctu and ut is similar ."}
+{"aspect": "online program", "label": "Pos", "sentence": "the online program made for great practical sense given my wife 's pregnancy and time constraints ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "e*trade offers the online help that a new user might want to get a better grasp of his / her finances ."}
+{"aspect": "lists", "label": "Pos", "sentence": "i 'm also a subscriber to several much larger lists ( 300 + people ) , and they have been running smoothly since i have joined ."}
+{"aspect": "dean", "label": "Pos", "sentence": "i found this frustrating at first , but my dean has been very helpful ."}
+{"aspect": "devry", "label": "Pos", "sentence": "bottomline , devry is an institution that is focused on career development by teaching professional skills for career - oriented students ."}
+{"aspect": "opportunities", "label": "Neg", "sentence": "the opportunities to invest at the end of december turned out to be disappointing ."}
+{"aspect": "place", "label": "Neu", "sentence": "if you are willing to give up a year of your life to get a graduate school degree this place is for you if not go elsewhere ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "with egroups , it 's just a few clicks of the mouse and you can get what you want accomplished ."}
+{"aspect": "egroups website", "label": "Pos", "sentence": "you can post / respond to messages either directly from your email account or from the egroups website ."}
+{"aspect": "classes", "label": "Neg", "sentence": "the first two classes were horrible ."}
+{"aspect": "school", "label": "Neg", "sentence": "this school is all about the money"}
+{"aspect": "connectivity", "label": "Neg", "sentence": "connectivity has not been an issue ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "one of the nice things too about egroups is that there is an option to allow attachments to go through the list or not ."}
+{"aspect": "option", "label": "Pos", "sentence": "one of the nice things too about egroups is that there is an option to allow attachments to go through the list or not ."}
+{"aspect": "ctu", "label": "Pos", "sentence": "in fact , because my husband is a professor , i was given nearly a full scholarship from ctu ."}
+{"aspect": "counselors", "label": "Neg", "sentence": "the counselors do not communicate with you , and are appalling ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "as of tuesday , the followong week , e*trade still had not posted payment and as a result , they sold my stocks at a huge loss ."}
+{"aspect": "company", "label": "Pos", "sentence": "the company offered many ipos last year and if we had just bought a few of those , we would be making great profits ."}
+{"aspect": "aiu", "label": "Neg", "sentence": "you want to be proud in the college you attend and aiu is not one ."}
+{"aspect": "education", "label": "Pos", "sentence": "but they do over a great education my classes have been challenging and the teachers educated ."}
+{"aspect": "classes", "label": "Neu", "sentence": "but they do over a great education my classes have been challenging and the teachers educated ."}
+{"aspect": "teachers", "label": "Pos", "sentence": "but they do over a great education my classes have been challenging and the teachers educated ."}
+{"aspect": "staff", "label": "Neu", "sentence": "now when it comes to the staff , they are very close to the same level as the faculty ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "this egroups thing is a fine service ."}
+{"aspect": "class", "label": "Pos", "sentence": "i had a programming class with no lectures which is always fun for beginners to try to learn concepts without any sort of interactivity ."}
+{"aspect": "color scheme", "label": "Pos", "sentence": "the color scheme is also lovely ."}
+{"aspect": "community", "label": "Pos", "sentence": "the community of students is also awesome and i 've been able to network with many of them ."}
+{"aspect": "students", "label": "Pos", "sentence": "the community of students is also awesome and i 've been able to network with many of them ."}
+{"aspect": "uop", "label": "Neg", "sentence": "i was enrolled at uop for a single class and quickly realized it was a complete waste of time and money ."}
+{"aspect": "class", "label": "Neg", "sentence": "i was enrolled at uop for a single class and quickly realized it was a complete waste of time and money ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "aside from the ads , everything else about egroups is very good ."}
+{"aspect": "power etrade", "label": "Pos", "sentence": "customer service : if you 're an active trader , you get put into the power etrade program , which gives you the fastest customer service available anywhere ."}
+{"aspect": "customer service", "label": "Pos", "sentence": "customer service : if you 're an active trader , you get put into the power etrade program , which gives you the fastest customer service available anywhere ."}
+{"aspect": "experience", "label": "Neg", "sentence": "i have only had one bad experience with them , which is actually a pretty funny story ."}
+{"aspect": "school", "label": "Neg", "sentence": "this supposedly military friendly school scammed me ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "i have made many lifelong friends through egroups and it"}
+{"aspect": "e*trade", "label": "Pos", "sentence": "as time has gone on , i have come to realize that e*trade is pretty much a middle - of - the - road discount broker ."}
+{"aspect": "onelist / egroups", "label": "Pos", "sentence": "onelist / egroups are providing me with added value and content that i can pass along to my customers at no cost to either of us ."}
+{"aspect": "uop", "label": "Pos", "sentence": "i have over 70 hours at \" regualr \" universities and have found that uop classes are just as challenging and provide the student with just as much opportunity to learn ."}
+{"aspect": "northcentral", "label": "Pos", "sentence": "northcentral has a great doctor of education program ."}
+{"aspect": "doctor of education program", "label": "Pos", "sentence": "northcentral has a great doctor of education program ."}
+{"aspect": "sign up", "label": "Pos", "sentence": "the sign up was fairly simple , and before i could do anything else it was done ."}
+{"aspect": "capella", "label": "Pos", "sentence": "at capella , financial aid was a snap !"}
+{"aspect": "financial aid", "label": "Pos", "sentence": "at capella , financial aid was a snap !"}
+{"aspect": "ecircles", "label": "Neg", "sentence": "now what i like about ecircles is the fact that only the people you invite into your created circle can view the pictures ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "aside from my soapbox of being nice - i have indeed made a good many friends from egroups ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "the few problems that i have had with etrade are mainly concerning delayed trade confirmations ."}
+{"aspect": "trade confirmations", "label": "Neg", "sentence": "the few problems that i have had with etrade are mainly concerning delayed trade confirmations ."}
+{"aspect": "site", "label": "Pos", "sentence": "this site is also respectful of people 's anonymity in groups ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "e - trade offers a world of information and it makes the stock market world very easy for beginners to understand ."}
+{"aspect": "photo albums", "label": "Pos", "sentence": "my favorites have to be the photo albums and the add links features ."}
+{"aspect": "add links", "label": "Pos", "sentence": "my favorites have to be the photo albums and the add links features ."}
+{"aspect": "practices", "label": "Neg", "sentence": "while i did receive high grades , i will admit , i did work hard for them - no doubt about that however , the deceitful , manipulative , greedy and darned right pestering practices this school used(uses ) leaves alot to be desired !"}
+{"aspect": "community", "label": "Neg", "sentence": "the community and chat parts of this site are not that useful ."}
+{"aspect": "chat", "label": "Neg", "sentence": "the community and chat parts of this site are not that useful ."}
+{"aspect": "phone", "label": "Neg", "sentence": "if you try to call them when this happens , there are already a million other people on the phone , so you have to wait forever ."}
+{"aspect": "degree", "label": "Neu", "sentence": "an online degree takes dedication and self motivation ."}
+{"aspect": "uop", "label": "Pos", "sentence": "i spent time researching and quite a few fellow employees told me the uop was great ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "now i must make it up to the irs , all because e*trade would not email or telephone me ."}
+{"aspect": "flexibility", "label": "Pos", "sentence": "i am in law enforcement and work nightshift , so the flexibility appeals greatly ."}
+{"aspect": "school", "label": "Pos", "sentence": "i figured that a degree from a school with a bad reputation is better than no degree at all , so i enrolled ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "ahh ecircles was fun while it lasted ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "you have three choices with egroups as far as how to view the messages on your chosen group(s ) ."}
+{"aspect": "university", "label": "Neg", "sentence": "the woman responsible for this was apparently discharged from the university , but they will not take the hit for this terrible mistake ."}
+{"aspect": "experiences", "label": "Neg", "sentence": "my worst experiences were when i first started using e*trade , trying to find information in their \" e*trade help center \" ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "my worst experiences were when i first started using e*trade , trying to find information in their \" e*trade help center \" ."}
+{"aspect": "teacher", "label": "Neg", "sentence": "i also discovered it 's difficult to find the proper channel to make a complaint against a teacher ."}
+{"aspect": "paypal", "label": "Neg", "sentence": "paypal is a ripoff , they do not inform of littel fees and services they provide , are not willing to work with you on problems , and obviously do not care about their customers ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "sadly ecircles is no more ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "but then they ( egroups ) reassures us that our listmembers wo n't have to take on yahoo i d 's too and all can go as it always has , which is good- the notion of having to ask a few hundred people to do that is not pretty . . . but wait !"}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups also has some other interesting options ."}
+{"aspect": "options", "label": "Pos", "sentence": "egroups also has some other interesting options ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "being an egroups member and group owner has been so much fun !"}
+{"aspect": "egroups", "label": "Neu", "sentence": "we owe that to egroups , letting me form a group like that ."}
+{"aspect": "home page", "label": "Pos", "sentence": "the home page gives some great tips on investing ( different daily ) , as well as a story stock of the day and what different analysts are doing ."}
+{"aspect": "tips", "label": "Pos", "sentence": "the home page gives some great tips on investing ( different daily ) , as well as a story stock of the day and what different analysts are doing ."}
+{"aspect": "uop", "label": "Neg", "sentence": "i , too was a little leery of uop because of its reputation ."}
+{"aspect": "devry", "label": "Neg", "sentence": "i would advise those thinking of going to devry to do their research on the school first before putting thousands of dollars into devry 's pockets ."}
+{"aspect": "site", "label": "Pos", "sentence": "finding your way through the site is above average and the tools provided ( such as the writing center ) are great !"}
+{"aspect": "tools", "label": "Pos", "sentence": "finding your way through the site is above average and the tools provided ( such as the writing center ) are great !"}
+{"aspect": "u of p", "label": "Neg", "sentence": "u of p does not work well with the gi bill ."}
+{"aspect": "quality of the students", "label": "Neg", "sentence": "i have had conversations with faculty who have confided their frustrations with the quality of the students ."}
+{"aspect": "advisor", "label": "Neg", "sentence": "i told my \" advisor \" that i was doing research on online education and 30 minutes later he gave me a deadline ."}
+{"aspect": "deadline", "label": "Neg", "sentence": "i told my \" advisor \" that i was doing research on online education and 30 minutes later he gave me a deadline ."}
+{"aspect": "umuc", "label": "Neg", "sentence": "i also do n't like the fact that umuc assigns instructors across multiple fiel;ds , outisde their departments to teach courses ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "however for me , the thrill of evaluating a stock on your own with e - trade as your \" personal guide \" is one i would n't give up for anything , and so far , i 've been very successful ."}
+{"aspect": "idea", "label": "Pos", "sentence": "while i like the idea of this feature it has it 's faults ."}
+{"aspect": "feature", "label": "Neu", "sentence": "while i like the idea of this feature it has it 's faults ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "the original review was written a while back and i wanted to add this update to express my disappointment with e*trade ."}
+{"aspect": "experience", "label": "Pos", "sentence": "anyway , i loved my experience and my employer is so happy for me to be graduating and they support uop degrees 100 % ."}
+{"aspect": "employer", "label": "Pos", "sentence": "anyway , i loved my experience and my employer is so happy for me to be graduating and they support uop degrees 100 % ."}
+{"aspect": "phoenix", "label": "Neg", "sentence": "veterans should stay away from phoenix , as they will not receive the full benefit of the gi bill ."}
+{"aspect": "instructors", "label": "Pos", "sentence": "the it instructors have all been amazing mentors ."}
+{"aspect": "mentors", "label": "Pos", "sentence": "the it instructors have all been amazing mentors ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "the positive side of the egroups is that you will meet lots of new people , and if you join an epinions egroup , you will certainly see a change in your number of hits ."}
+{"aspect": "speed", "label": "Neg", "sentence": "the speed is lower than it was several years ago ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "while none of the features are earth - shattering , ecircles does provided a great place to keep in touch ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "why etrade would tell me my account was set up to begin with and let me purchase securities without having money in my etrade account sounds like a stupid way to run a business ."}
+{"aspect": "business", "label": "Neg", "sentence": "why etrade would tell me my account was set up to begin with and let me purchase securities without having money in my etrade account sounds like a stupid way to run a business ."}
+{"aspect": "ads", "label": "Neg", "sentence": "now in order to remove these ads from the top of the emails you have to pay a $ 60 yearly fee ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "that is the one drawback i see really to ecircles ."}
+{"aspect": "bill", "label": "Neg", "sentence": "three weeks later , they sent me a bill for almost $ 2,000.00"}
+{"aspect": "folks", "label": "Pos", "sentence": "the nice folks at e - trade gave me a secret name - fuh34557 - and a secret password ghjiuy ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "e*trade by contrast was intuitive , open , and had easily accessible resources - volumes of research , glossaries , neat \" alerts \" ( web site email that does n't flood your personal inbox ) and so on ."}
+{"aspect": "resources", "label": "Pos", "sentence": "e*trade by contrast was intuitive , open , and had easily accessible resources - volumes of research , glossaries , neat \" alerts \" ( web site email that does n't flood your personal inbox ) and so on ."}
+{"aspect": "research", "label": "Pos", "sentence": "e*trade by contrast was intuitive , open , and had easily accessible resources - volumes of research , glossaries , neat \" alerts \" ( web site email that does n't flood your personal inbox ) and so on ."}
+{"aspect": "glossaries", "label": "Pos", "sentence": "e*trade by contrast was intuitive , open , and had easily accessible resources - volumes of research , glossaries , neat \" alerts \" ( web site email that does n't flood your personal inbox ) and so on ."}
+{"aspect": "alerts", "label": "Pos", "sentence": "e*trade by contrast was intuitive , open , and had easily accessible resources - volumes of research , glossaries , neat \" alerts \" ( web site email that does n't flood your personal inbox ) and so on ."}
+{"aspect": "email", "label": "Pos", "sentence": "e*trade by contrast was intuitive , open , and had easily accessible resources - volumes of research , glossaries , neat \" alerts \" ( web site email that does n't flood your personal inbox ) and so on ."}
+{"aspect": "yahoo", "label": "Neg", "sentence": "yahoo has acquired egroups and i am probably going to leave it and move my list ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "e*trade has got all kinds of banking , securities , stocks , markets , and research all crammed together ."}
+{"aspect": "customer service rep", "label": "Neg", "sentence": "when my friend \" busted them \" with the information that the identical schwab order and other orders for that stock did execute that same day , the customer service rep had nothing intelligent to say ."}
+{"aspect": "rates", "label": "Pos", "sentence": "their rates are fair and their site works reasonably ."}
+{"aspect": "site", "label": "Pos", "sentence": "their rates are fair and their site works reasonably ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "over all egroups is a wonderful service that allows you the opportunity to meet new people and share your ideas , thoughts and feelings ."}
+{"aspect": "customer support", "label": "Pos", "sentence": "their customer support is second to none and they are constantly working to upgrade and improve the services they provide ."}
+{"aspect": "mutual fund purchasing", "label": "Neg", "sentence": "but i find it confusing that mutual fund purchasing happens in a completely different part of the web site than stock purchasing ."}
+{"aspect": "home schooling", "label": "Neg", "sentence": "you are basically doing home schooling ."}
+{"aspect": "degrees", "label": "Neg", "sentence": "degrees are fake , they will not be respected by any legtimate employer that requires real education!the cat is out of the bag , with respect to the goverment investigations listed below ."}
+{"aspect": "site", "label": "Pos", "sentence": "the site is easy to access ."}
+{"aspect": "tuition", "label": "Neg", "sentence": "as far as the high tuition , all online colleges are expensive ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "i , like others here who have expressed their epinions about e*trade , am here to say that i too felt secure in investing my hard - earned money with e - trade ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "i , like others here who have expressed their epinions about e*trade , am here to say that i too felt secure in investing my hard - earned money with e - trade ."}
+{"aspect": "e*trade", "label": "Neu", "sentence": "i suppose e*trade does the job for a reasonable price , but i think they could do better ."}
+{"aspect": "price", "label": "Pos", "sentence": "i suppose e*trade does the job for a reasonable price , but i think they could do better ."}
+{"aspect": "coaches", "label": "Pos", "sentence": "the insight coaches were also great ."}
+{"aspect": "technical support staff", "label": "Pos", "sentence": "the technical support staff were very helpful with that problem ."}
+{"aspect": "merger", "label": "Neg", "sentence": "i say sad day , because in my opinion this merger ruined what had been an excellent site ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "etrade ca n't fool me , they suck and they know it . they were a pioneer but now a laggard ."}
+{"aspect": "server response", "label": "Neu", "sentence": "most of the time , the server response is good but when it is not , it is very frustrating ."}
+{"aspect": "class", "label": "Neg", "sentence": "once you make even a single post to the class newsgroup you are financially committed to that class ( i do n't know if this is rigidly enforced ) ."}
+{"aspect": "customer service", "label": "Neg", "sentence": "customer service is not , perhaps , the best feature of this company ."}
+{"aspect": "company", "label": "Neg", "sentence": "customer service is not , perhaps , the best feature of this company ."}
+{"aspect": "connection times", "label": "Neg", "sentence": "during the middle of the day , connection times can be slow and response can grind to a halt ."}
+{"aspect": "response", "label": "Neg", "sentence": "during the middle of the day , connection times can be slow and response can grind to a halt ."}
+{"aspect": "yahoogroups", "label": "Pos", "sentence": "basically , yahoogroups is an effective communication tool for sharing ideas and files , but the interface is slow due to the inherent slowness of its bulletin board format ."}
+{"aspect": "interface", "label": "Neg", "sentence": "basically , yahoogroups is an effective communication tool for sharing ideas and files , but the interface is slow due to the inherent slowness of its bulletin board format ."}
+{"aspect": "bulletin board format", "label": "Neg", "sentence": "basically , yahoogroups is an effective communication tool for sharing ideas and files , but the interface is slow due to the inherent slowness of its bulletin board format ."}
+{"aspect": "a 's", "label": "Neg", "sentence": "i was told by the dean that there was too many a 's in my classes ."}
+{"aspect": "classes", "label": "Neg", "sentence": "i was told by the dean that there was too many a 's in my classes ."}
+{"aspect": "logging on", "label": "Pos", "sentence": "i 've never had any problems or delays logging on , although i only check my accounts once or twice a week ."}
+{"aspect": "institution", "label": "Neg", "sentence": "in my view the sole purpose of this institution is to collect ( exorbitant ) tuition ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "however , i definitely like one feature of e*trade that is its linked e*trade bank that has high interest rate and fdic insured ."}
+{"aspect": "e*trade bank", "label": "Pos", "sentence": "however , i definitely like one feature of e*trade that is its linked e*trade bank that has high interest rate and fdic insured ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "lately , i have joined three egroups and have discovered so many things about the programs i use ."}
+{"aspect": "things", "label": "Pos", "sentence": "things that are great about being a member of an egroup"}
+{"aspect": "approach", "label": "Neu", "sentence": "that there is a somewhat inherent flaw in the learning team approach , but in the long term , the stragglers will not come out ahead , as they will not succeed . this * is"}
+{"aspect": "groups", "label": "Pos", "sentence": "there are many groups with good information related to illnesses people face , and some of these groups can become a great support system for members who face the same trials and tribulations related to health ."}
+{"aspect": "information", "label": "Pos", "sentence": "there are many groups with good information related to illnesses people face , and some of these groups can become a great support system for members who face the same trials and tribulations related to health ."}
+{"aspect": "support system", "label": "Pos", "sentence": "there are many groups with good information related to illnesses people face , and some of these groups can become a great support system for members who face the same trials and tribulations related to health ."}
+{"aspect": "executions", "label": "Neg", "sentence": "the major complaint is poor executions ."}
+{"aspect": "etrade", "label": "Pos", "sentence": "i have been using etrade since 1997 and i am very satisfied with their overall service ."}
+{"aspect": "service", "label": "Pos", "sentence": "i have been using etrade since 1997 and i am very satisfied with their overall service ."}
+{"aspect": "people", "label": "Pos", "sentence": "in this amount of time i have met tons of wonderful people , have gotten some awesome advise as well as recommended to many great site ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "probably my favorite thing about egroups even though i do n't use it is the family filter ."}
+{"aspect": "family filter", "label": "Pos", "sentence": "probably my favorite thing about egroups even though i do n't use it is the family filter ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "almost any topic is covered at egroups ."}
+{"aspect": "email", "label": "Neg", "sentence": "each email you get from egroups begins with an ad ."}
+{"aspect": "egroups", "label": "Neg", "sentence": "each email you get from egroups begins with an ad ."}
+{"aspect": "etrade", "label": "Pos", "sentence": "i informed etrade of this decision and they handled it fine ."}
+{"aspect": "uop", "label": "Pos", "sentence": "its now been 5 years since i graduated from uop and i have to say it has help me get promoted ."}
+{"aspect": "amount of work", "label": "Pos", "sentence": "you never have to be online at any certain time , the amount of work for the most part is not overwhelming , and yet you learn ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "it 's a small thing , but i appreciate the fact that when i click on a ticker symbol at e - trade , i go to the research screen rather than the \" buy this security \" screen that i get at scott ."}
+{"aspect": "email lists", "label": "Pos", "sentence": "truly some of my best friends i have met online through email lists !"}
+{"aspect": "egroups", "label": "Pos", "sentence": "i chose egroups ( formerly known as onelist ) to write about because i feel they are the greatest way to communicate via email lists ."}
+{"aspect": "service", "label": "Pos", "sentence": "this service is handy , fun , and easy to use ."}
+{"aspect": "ctu", "label": "Pos", "sentence": "this is a very challenging , demanding , and well paying position that he would not have gotten without his degree from ctu ."}
+{"aspect": "service rep", "label": "Neg", "sentence": "the service rep mumbled ( or i think he did ) some lame excuses . . ."}
+{"aspect": "box", "label": "Pos", "sentence": "you then get to type your question in a tiny box ."}
+{"aspect": "instructor", "label": "Neg", "sentence": "i recall one class in which our instructor logged in ( and this is not an exaggeration ) twice during the semester : once to greet everyone and once to collect our final exams ."}
+{"aspect": "website", "label": "Neg", "sentence": "i do recall that at one point it took their website a week or so to reflect the fact that i owned vfinx and not just cash in the fund . that 's not so cool ."}
+{"aspect": "website", "label": "Pos", "sentence": "then when you come back you can view the archive on the website to catch up on what happened when you were away ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "i enjoy egroups because i have met so many wonderful people ."}
+{"aspect": "people", "label": "Pos", "sentence": "i enjoy egroups because i have met so many wonderful people ."}
+{"aspect": "feature", "label": "Pos", "sentence": "finally , and this is a terrific feature -- you can download all your transactions to quicken and microsoft money ."}
+{"aspect": "experience", "label": "Pos", "sentence": "i know you ca n't please everyone , but i have had nothing but a pleasant experience ."}
+{"aspect": "views", "label": "Pos", "sentence": "there are many different views for these portfolios , and it is helpful to see all of these views ( quick view , performance , research , option watch ) ."}
+{"aspect": "folks", "label": "Pos", "sentence": "the folks in the financial aid department were also extremely helpful ."}
+{"aspect": "financial aid", "label": "Pos", "sentence": "the folks in the financial aid department were also extremely helpful ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "i highly recommend egroups to all of you , but remember the tips about digesting and/or the number of groups you subscribe to !"}
+{"aspect": "etrade", "label": "Neg", "sentence": "well wrong , etrade was an old trading company which just took their business to the web ."}
+{"aspect": "textbooks", "label": "Pos", "sentence": "the textbooks help with the foundation and basics of the class , and the research papers help you to expand on that knowledge ."}
+{"aspect": "research papers", "label": "Pos", "sentence": "the textbooks help with the foundation and basics of the class , and the research papers help you to expand on that knowledge ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "while e*trade seems to be the most widely used , it is not the best ."}
+{"aspect": "consumer offering", "label": "Neg", "sentence": "they are unprofessional , unconcerned , their consumer offering is adulterated by the complexity of their advanced and business offerings ."}
+{"aspect": "aid", "label": "Pos", "sentence": "regarding financial aid , enrollment , and academic counselors , there have been no issues ."}
+{"aspect": "enrollment", "label": "Pos", "sentence": "regarding financial aid , enrollment , and academic counselors , there have been no issues ."}
+{"aspect": "counselors", "label": "Pos", "sentence": "regarding financial aid , enrollment , and academic counselors , there have been no issues ."}
+{"aspect": "devry", "label": "Pos", "sentence": "i highly recommend devry ! ! !"}
+{"aspect": "ecircles", "label": "Pos", "sentence": "i really like using ecircles for a variety of tasks ."}
+{"aspect": "etrade", "label": "Pos", "sentence": "at the very best , etrade is satisfactory ."}
+{"aspect": "email", "label": "Neg", "sentence": "one issue that extremely disturbed me was just recently i received an email stating there was an error in my paper work and that i could not be matriculated ( i find this out now two weeks into my class ) ."}
+{"aspect": "class", "label": "Neg", "sentence": "one issue that extremely disturbed me was just recently i received an email stating there was an error in my paper work and that i could not be matriculated ( i find this out now two weeks into my class ) ."}
+{"aspect": "customer service", "label": "Pos", "sentence": "the good thing is that customer service was helpful in solving the problem and they promptly sent me revised 1099 's ."}
+{"aspect": "photos", "label": "Pos", "sentence": "digital photos from an album can be used to order glossies , which is a nice touch ."}
+{"aspect": "academic advisor", "label": "Pos", "sentence": "the academic advisor has always been willing to listen and she is an exceptional administrator ."}
+{"aspect": "lists", "label": "Neg", "sentence": "there are also several redundant lists ."}
+{"aspect": "ipos", "label": "Pos", "sentence": "i was able to get into quite a few of the fairly attractive ipos ( perhaps because i followed their rules and never \" flipped \" the stock and possibly because i was a platinum member ) ."}
+{"aspect": "help", "label": "Pos", "sentence": "if you 're a long - term investor , this kind of turnaround is fine , and the help via email is usually thorough and helpful ."}
+{"aspect": "trouble", "label": "Neu", "sentence": "the only problem i 've encountered is that once in a while i will have trouble accessing the site , but that is extremely rare ."}
+{"aspect": "instructors", "label": "Neg", "sentence": "instructors ignore students and the administration is simply incompetent ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "e*trade is n't the cheapest brokerage out there , but it has a very compelling feature set and its reliability record is hard to beat ."}
+{"aspect": "feature set", "label": "Pos", "sentence": "e*trade is n't the cheapest brokerage out there , but it has a very compelling feature set and its reliability record is hard to beat ."}
+{"aspect": "reliability", "label": "Pos", "sentence": "e*trade is n't the cheapest brokerage out there , but it has a very compelling feature set and its reliability record is hard to beat ."}
+{"aspect": "uop", "label": "Neg", "sentence": "on the other hand i never felt that uop cared about anything other than my checkbook ."}
+{"aspect": "staff", "label": "Neg", "sentence": "not so much the class structure , but the staff are horrible ."}
+{"aspect": "devry", "label": "Neg", "sentence": "devry turned my account over with my social security number as the account number , so i 've had no choice but to put watches on my information with the credit bureaus and on my individual credit accounts ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "the following review details are for the outstanding e - trade , not the lackluster merrill ."}
+{"aspect": "support team", "label": "Pos", "sentence": "its customizable charts , free real time quotes , up - to - date company news flashes and other research tools are supplemented by a friendly online and telephone support team which is quite unlike my previous experience with datek and a more recent yet equally unimpressive experience with ameritrade ."}
+{"aspect": "e - mail", "label": "Neg", "sentence": "bad / no e - mail : you ca n't send them e - mail using your e - mail program ."}
+{"aspect": "e - mail", "label": "Neg", "sentence": "bad / no e - mail : you ca n't send them e - mail using your e - mail program ."}
+{"aspect": "e - mail program", "label": "Neg", "sentence": "bad / no e - mail : you ca n't send them e - mail using your e - mail program ."}
+{"aspect": "price", "label": "Pos", "sentence": "i think for the amount of sevices that you get plus the reliability it is a good price ."}
+{"aspect": "customer service", "label": "Neg", "sentence": "perhaps our case is unique , but the customer service we received was unsatisfactory under any circumstances ."}
+{"aspect": "opportunity", "label": "Pos", "sentence": "thank god for online learning!i'm a single mother and , i am lucky to be here and have a great career opportunity because of being at ctu . complain about something worthwhile , instead of trying to ruin the credibility of upstanding university that 's been around for decades ."}
+{"aspect": "ctu", "label": "Pos", "sentence": "thank god for online learning!i'm a single mother and , i am lucky to be here and have a great career opportunity because of being at ctu . complain about something worthwhile , instead of trying to ruin the credibility of upstanding university that 's been around for decades ."}
+{"aspect": "message archives", "label": "Pos", "sentence": "the message archives are easier to browse , no longer given to you in 25-message installments ."}
+{"aspect": "friends", "label": "Pos", "sentence": "i have made really good friends just from discussing our lives as writers and mothers ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "i will admit that egroups is the only site of this kind that i have visited and joined , but i really ca n't imagine there being anything better than egroups out there for this purpose ."}
+{"aspect": "program", "label": "Pos", "sentence": "overall , i feel that this program is a good choice for those of us that do not have the time to attend a traditional college and that have put in a few years of work in the business sector ."}
+{"aspect": "choice", "label": "Pos", "sentence": "overall , i feel that this program is a good choice for those of us that do not have the time to attend a traditional college and that have put in a few years of work in the business sector ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups is a really great place to get your name out on epinions ."}
+{"aspect": "assignments", "label": "Neg", "sentence": "the cons : the weekly assignments require rigid discipline ."}
+{"aspect": "e - trade", "label": "Neg", "sentence": "he then called e - trade to complain , and after getting through the usually busy phone line a customer service rep told him that \" obviously the price never reached $ 0.18 \" , which is strange thing to say since this was an \" ask \" price ."}
+{"aspect": "advice", "label": "Pos", "sentence": "it is wonderful to receive advice and encouragement from other women ."}
+{"aspect": "encouragement", "label": "Pos", "sentence": "it is wonderful to receive advice and encouragement from other women ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "to put it briefly : e*trade never notified me of a problem accessing my bank account for funds ."}
+{"aspect": "ctu", "label": "Neu", "sentence": "ctu is part business , part college , as is any university ."}
+{"aspect": "professors", "label": "Neg", "sentence": "i made the mistake of upsetting one of my , supposedly professional , professors and he took it upon himself to find reasons to second guess every decision i made ."}
+{"aspect": "e - groups", "label": "Pos", "sentence": "there is a community for everyone at e - groups and if you ca n't find one you can always start your own ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "i give ecircles four out of five circles ."}
+{"aspect": "standing", "label": "Pos", "sentence": "p.s . i searched the better business bureau and in the past 3 years there were only 12 complaints ( i think 12 ) and out of 96,000 plus per quarter , that is a very good standing , so keep these things in mind when making your decision ."}
+{"aspect": "devry university", "label": "Neu", "sentence": "i just applied for devry university online and i am concerned with the entrance exam !"}
+{"aspect": "entrance exam", "label": "Neu", "sentence": "i just applied for devry university online and i am concerned with the entrance exam !"}
+{"aspect": "ecircles", "label": "Pos", "sentence": "ecircles is a great way to communicate with many different people at one time ."}
+{"aspect": "e*trade bank", "label": "Neg", "sentence": "disorganized : e*trade brokerage merged with telebank to form e*trade bank , but they 're mostly separate ."}
+{"aspect": "school", "label": "Pos", "sentence": "i loved all my experiences with this school and i am proud to say that i will be transferring over to the uop bachelors in business management ."}
+{"aspect": "uop bachelors", "label": "Pos", "sentence": "i loved all my experiences with this school and i am proud to say that i will be transferring over to the uop bachelors in business management ."}
+{"aspect": "goals", "label": "Neu", "sentence": "the goals marketed to the public are correct ( flexible , adult education ) , but the corporate goals of the apollo group conflict with the goals of an educational institution ."}
+{"aspect": "uop", "label": "Neu", "sentence": "i just recently enrolled with uop online , this would be my first experience attending an online course ."}
+{"aspect": "uophx", "label": "Neu", "sentence": "i am a recent uophx online graduate ."}
+{"aspect": "capella", "label": "Pos", "sentence": "i loved capella and i hope that they continue their good job ."}
+{"aspect": "job", "label": "Pos", "sentence": "i loved capella and i hope that they continue their good job ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "i really think egroups is a good place to get started if you are wanting to organize your on - line life ."}
+{"aspect": "uop", "label": "Pos", "sentence": "i am a year away from completing my bs in human service management and will continue on to my masters in psychology - all at uop ."}
+{"aspect": "e - trade", "label": "Neg", "sentence": "e - trade lost the paperwork several times , deposited the funds in the wrong account ( which was a traditional ira thus creating another big mess ) , and it was extremely difficult to get them to take action to resolve the situation ."}
+{"aspect": "uop", "label": "Pos", "sentence": "i have finished 11 of my 15 mba classes at uop and i have a 3.85 gpa ."}
+{"aspect": "customer disservice", "label": "Neg", "sentence": "customer disservice kept me on hold for hours ; i never once got through in less than 25 minutes ( with 25 minutes being the fastest ) ."}
+{"aspect": "ecircles", "label": "Pos", "sentence": "ecircles offers a variety of neat features that enhance your groups communication ."}
+{"aspect": "program", "label": "Neu", "sentence": "the program has been challenging but fair , with great interaction ."}
+{"aspect": "interaction", "label": "Pos", "sentence": "the program has been challenging but fair , with great interaction ."}
+{"aspect": "volume of mail", "label": "Neg", "sentence": "depending on the list , the volume of mail can sometimes be quite high , so this option may be a little discouraging , unless you have the time / desire to wade through multiple(sometimes 200 + a day on one list that i belong to ) emails every day ."}
+{"aspect": "e - trade", "label": "Pos", "sentence": "e - trade has a pretty good interface , and lots of information to inform the average investor ."}
+{"aspect": "interface", "label": "Pos", "sentence": "e - trade has a pretty good interface , and lots of information to inform the average investor ."}
+{"aspect": "information", "label": "Pos", "sentence": "e - trade has a pretty good interface , and lots of information to inform the average investor ."}
+{"aspect": "capella", "label": "Neg", "sentence": "capella is a disgrace and people who enroll there are fooling themselves ."}
+{"aspect": "enrollment counselors", "label": "Pos", "sentence": "first of all , the enrollment counselors can be a little aggressive ."}
+{"aspect": "grades", "label": "Pos", "sentence": "i have received good grades at uop , but i work hard to receive them ."}
+{"aspect": "uop", "label": "Pos", "sentence": "i have received good grades at uop , but i work hard to receive them ."}
+{"aspect": "phone system", "label": "Pos", "sentence": "they have an amazing phone system too for when the site is down ."}
+{"aspect": "service", "label": "Pos", "sentence": "on the good hand , as i mentioned above , you do not need a credit card to access their service ."}
+{"aspect": "graphics", "label": "Pos", "sentence": "it has cool graphics and is easily navigable ."}
+{"aspect": "degree", "label": "Pos", "sentence": "i will earn my degree and only end up paying a little over a thousand dollars ."}
+{"aspect": "students", "label": "Pos", "sentence": "the students get the opportunity to be good at public speaking ."}
+{"aspect": "uop", "label": "Pos", "sentence": "i was enrolled at my local community college for one semester , and decided to transfer to uop because it would be more convenient ."}
+{"aspect": "egroups", "label": "Neu", "sentence": "sure , some people have their problems with egroups ... but personally , i have had very few problems ."}
+{"aspect": "password", "label": "Neg", "sentence": "my principal peeve has been having to re - enter my password so often , even during the same session ."}
+{"aspect": "egroups", "label": "Neg", "sentence": "also egroups can be annoying if you want to send out a daily newsletter ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups is good about notifing list owners in advance when scheduled maintenance will occur ."}
+{"aspect": "notifing", "label": "Pos", "sentence": "egroups is good about notifing list owners in advance when scheduled maintenance will occur ."}
+{"aspect": "mail", "label": "Neg", "sentence": "the only problems i have encountered is that sometimes , mail seems to be very slow in getting to me and can sometimes be a couple days behind when i get them ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups now known as yahoo groups is one of the best sites i have come across ."}
+{"aspect": "yahoo groups", "label": "Pos", "sentence": "egroups now known as yahoo groups is one of the best sites i have come across ."}
+{"aspect": "egroup", "label": "Pos", "sentence": "one nice thing about being in a egroup is that some times you will find that there are others whom you don ?"}
+{"aspect": "umuc course", "label": "Neg", "sentence": "my last umuc course did not meet the course description and goals , and it was a second choice bcause the first choice got called off ."}
+{"aspect": "bill", "label": "Neg", "sentence": "i am still trying to fight this issue , but at the same time am stuck with a $ 3500 dollar bill , in which if i do n't make a payment soon , they threaten to put on my credit report ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups , among the many that the internet offers , is one of the best internet communities that i have come across ."}
+{"aspect": "brifing.com", "label": "Pos", "sentence": "brifing.com is probably the best part of e*trade ( you can get their services separately by going to www.briefing.com ) ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "brifing.com is probably the best part of e*trade ( you can get their services separately by going to www.briefing.com ) ."}
+{"aspect": "uop degree", "label": "Neg", "sentence": "most companies will not be impressed by an uop degree ."}
+{"aspect": "uop", "label": "Neg", "sentence": "uop is the worst school that i have ever attended ! !"}
+{"aspect": "choice", "label": "Neg", "sentence": "the choice can be overwhelming for the first - time e*trade user ."}
+{"aspect": "customer disservice", "label": "Neg", "sentence": "after a few identically frustrating efforts at this nonsense , with no help from customer disservice , i decided i would just wait out the \" trial period \" needed to get my money , then bail ."}
+{"aspect": "cost", "label": "Pos", "sentence": "* the cost : 20 bones a trade is a little steep but if you are n't trading 17 times a day , you really wo n't notice ."}
+{"aspect": "staff", "label": "Neg", "sentence": "after they got me enrolled i had difficulty getting responses from staff ."}
+{"aspect": "websites", "label": "Pos", "sentence": "i do think they have one of the better websites ."}
+{"aspect": "post", "label": "Neg", "sentence": "also when i post from my various email accounts it tends to take longer , sometimes hours longer , for the information to be displayed to the group ."}
+{"aspect": "advisors", "label": "Pos", "sentence": "yes the advisors are sales persons , but guess what if it takes a sales person to get me off my ass to make an improvement in my life then go ahead ."}
+{"aspect": "uop", "label": "Pos", "sentence": "i am a good writer , and uop improved my writing ."}
+{"aspect": "school", "label": "Neg", "sentence": "this is just flat out a bad school ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "i would like to be able to recommend e*trade , but based on my experiences with trying to open the ira account , and some problems that i have had with my other accounts , i ca n't recommend them ."}
+{"aspect": "devry", "label": "Pos", "sentence": "i interned for it companies while going to devry and work as much as i can to get alot of experience in programming , networking and business throughout the entire 3 years ."}
+{"aspect": "etrade", "label": "Pos", "sentence": "it is these additions that put etrade a notch ahead of the rest of the online trading community ."}
+{"aspect": "reliability", "label": "Neg", "sentence": "however their reliability is average ( border line below average ) ."}
+{"aspect": "uop", "label": "Neu", "sentence": "as uop was not the only college that i 've attended , i can safely say that there were no differences between meeting my academic requirements between the universities ."}
+{"aspect": "advisor", "label": "Pos", "sentence": "i really like that my advisor actually cares about my success and always keeps me up to date , and even calls occasionally to check in and make sure i 'm still on track ."}
+{"aspect": "photo albums", "label": "Pos", "sentence": "from the photo albums page , you can quickly and inexpensively turn favorite photos into prints or unique gifts -- from mugs and mouse pads to calendars , keepsake books , and clocks ."}
+{"aspect": "concept", "label": "Pos", "sentence": "the concept is amazing , once they get the kinks worked out , it will be interesting to see who comes out on top ."}
+{"aspect": "devry", "label": "Pos", "sentence": "devry has had an incredible impact on me , and i can only hope that i succeed and graduate ."}
+{"aspect": "impact", "label": "Pos", "sentence": "devry has had an incredible impact on me , and i can only hope that i succeed and graduate ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "again , this is based on my ongoing frustrations with etrade ."}
+{"aspect": "phone ordering", "label": "Pos", "sentence": "in that case their phone ordering system is a good alternative ."}
+{"aspect": "counselor", "label": "Neg", "sentence": "my counselor will not return my phone calls ."}
+{"aspect": "college", "label": "Neu", "sentence": "this college is for people that are self motivated and want a degree , not for people that want to goof off and have the instructor remind them day after day what they need to do and walk then all the way through gradation ."}
+{"aspect": "application process", "label": "Pos", "sentence": "again , the application process is simple and straightforward , and the initial response is prompt ."}
+{"aspect": "initial response", "label": "Pos", "sentence": "again , the application process is simple and straightforward , and the initial response is prompt ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "e*trade has profiles for most companies , as well as analyst opinions and market sentiment ."}
+{"aspect": "e*trade 's", "label": "Pos", "sentence": "to e*trade 's credit , my $ 75 bonus was credited promptly to my account ."}
+{"aspect": "uses", "label": "Pos", "sentence": "i have seen many uses for egroups such as photo trading with your family and friends , a music mail list , well just about any kind of email list you can think of !"}
+{"aspect": "egroups", "label": "Pos", "sentence": "i have seen many uses for egroups such as photo trading with your family and friends , a music mail list , well just about any kind of email list you can think of !"}
+{"aspect": "execution", "label": "Pos", "sentence": "plus , their execution is extremely fast and reliable ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "all of my recent trades at e*trade have posted on this other service in just a couple of seconds ."}
+{"aspect": "umuc", "label": "Neg", "sentence": "it is unconscionable that umuc is supposed to provide higher education to military personnel and , at the same time , is in partnership with a predatory lender that often mishandles payments , records , and disregards the law ."}
+{"aspect": "classes", "label": "Pos", "sentence": "in the 20 + classes i 've taken so far , no matter how elementary i thought they were at the beginning , i always came away having learned something new ."}
+{"aspect": "service", "label": "Neg", "sentence": "service : the staff mean well and are very polite but they ca n't fix the online problems ."}
+{"aspect": "staff", "label": "Pos", "sentence": "service : the staff mean well and are very polite but they ca n't fix the online problems ."}
+{"aspect": "uop", "label": "Neu", "sentence": "uop is a departure from tradition and people are always scared of change ."}
+{"aspect": "courses", "label": "Neg", "sentence": "i took a few courses at capella and found it to be a substandard experience ."}
+{"aspect": "capella", "label": "Neg", "sentence": "i took a few courses at capella and found it to be a substandard experience ."}
+{"aspect": "experience", "label": "Neg", "sentence": "i took a few courses at capella and found it to be a substandard experience ."}
+{"aspect": "uop instruction", "label": "Pos", "sentence": "in general i have been pleased with uop instruction and technical support is excellent , but their response times with the newsgroups are often unacceptable ."}
+{"aspect": "technical support", "label": "Pos", "sentence": "in general i have been pleased with uop instruction and technical support is excellent , but their response times with the newsgroups are often unacceptable ."}
+{"aspect": "response times", "label": "Neg", "sentence": "in general i have been pleased with uop instruction and technical support is excellent , but their response times with the newsgroups are often unacceptable ."}
+{"aspect": "university", "label": "Pos", "sentence": "university of pheonix online has provided a reliable classroom environment ."}
+{"aspect": "pheonix online", "label": "Pos", "sentence": "university of pheonix online has provided a reliable classroom environment ."}
+{"aspect": "classroom environment", "label": "Pos", "sentence": "university of pheonix online has provided a reliable classroom environment ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "all in all i love egroups ."}
+{"aspect": "web site", "label": "Pos", "sentence": "it has a good web site , but often times it gets bogged down with so many people trying to access at once ."}
+{"aspect": "egroups", "label": "Neg", "sentence": "egroups obviously does have a lot less users then yahoo so if you 're creating a group , yahoo might be the better service to go with ."}
+{"aspect": "paypal", "label": "Neg", "sentence": "paypal basically said too bad , my bank ca n't put a stop on it , because it is not an acrual paper check , and they can not access it , and since my bank account is now overdrawn , i can not cancel this account ."}
+{"aspect": "egroups", "label": "Neg", "sentence": "when i first went to egroups and signed up , i was overwhelmed ."}
+{"aspect": "site", "label": "Neg", "sentence": "and there is one main bad point and it 's a doozy -- the site keeps going down ."}
+{"aspect": "school", "label": "Neg", "sentence": "the school is not perfect ."}
+{"aspect": "institutions", "label": "Neg", "sentence": "these people are great sitting ducks for trashy institutions like capella that are really all about misuse of government loan funding ."}
+{"aspect": "capella", "label": "Neg", "sentence": "these people are great sitting ducks for trashy institutions like capella that are really all about misuse of government loan funding ."}
+{"aspect": "egroups", "label": "Neu", "sentence": "there is 20 mb available at egroups for people to save anything they want on the site ."}
+{"aspect": "financial aid counselors", "label": "Neg", "sentence": "the financial aid counselors are completely inept at fully explaining my tuition to me ."}
+{"aspect": "book in a week", "label": "Pos", "sentence": "another excellent online egroup is book in a week ."}
+{"aspect": "discussion question", "label": "Neg", "sentence": "we all had day jobs in the mis program , and coming home after 10 + hours to spend 1 - 2 hours writing discussion question answers was not what i would have preferred ."}
+{"aspect": "ctu", "label": "Neu", "sentence": "i am a current ctu international student ."}
+{"aspect": "yahoo", "label": "Pos", "sentence": "the only disadvanatage about all that is that egroups is now owned by yahoo !"}
+{"aspect": "e*trade", "label": "Neg", "sentence": "i realize that every company has its \" quirks \" but there are many problems with e*trade and i do not see how they can think loosing a check is a big deal ."}
+{"aspect": "persons", "label": "Neu", "sentence": "as a student though we should know the competence and experience of the persons assigned to teach our classes ."}
+{"aspect": "uop", "label": "Pos", "sentence": "the more i searched , i realized that uop was the only thing that was going to work with my current situation ."}
+{"aspect": "option", "label": "Pos", "sentence": "i also like the option to have a daily digest of messages delivered or receive single emails ."}
+{"aspect": "enrollment counselors", "label": "Neg", "sentence": "that s highway robbery . ! watch out for lying enrollment counselors , such as britt miller !"}
+{"aspect": "site", "label": "Pos", "sentence": "the site is easy to navigate which is a big issue to me ."}
+{"aspect": "customer service", "label": "Neg", "sentence": "the drawbacks of the school is the poor customer service and relaxed admissions standards ."}
+{"aspect": "admissions standards", "label": "Neg", "sentence": "the drawbacks of the school is the poor customer service and relaxed admissions standards ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "as far as etrade goes i have been dissatisfied with this company from the start ."}
+{"aspect": "egroups", "label": "Neg", "sentence": "one complaint that a lot of people have about egroups is that advertisements are inserted into the messages ."}
+{"aspect": "advertisements", "label": "Neg", "sentence": "one complaint that a lot of people have about egroups is that advertisements are inserted into the messages ."}
+{"aspect": "e*trade customer service", "label": "Neg", "sentence": "another major problem with e*trade customer service is they do n't record your calls ."}
+{"aspect": "accredited degree", "label": "Pos", "sentence": "i just need to attain a master 's to open doors that would have otherwise been closed , an accredited degree which umuc offers , will work just fine ."}
+{"aspect": "umuc", "label": "Pos", "sentence": "i just need to attain a master 's to open doors that would have otherwise been closed , an accredited degree which umuc offers , will work just fine ."}
+{"aspect": "costs", "label": "Neg", "sentence": "trading costs are a little high ( $ 15 and $ 20 vs . $ 10 elsewhere ) , but if you 're making as few trades as i am , the bonuses more than compensate ."}
+{"aspect": "options", "label": "Pos", "sentence": "the easily customizable options are wonderful ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "the most unacceptable problem of e*trade is the site slowness ."}
+{"aspect": "site", "label": "Neg", "sentence": "the most unacceptable problem of e*trade is the site slowness ."}
+{"aspect": "learner", "label": "Neu", "sentence": "i am a ph . d . learner at the school ."}
+{"aspect": "school", "label": "Neu", "sentence": "i am a ph . d . learner at the school ."}
+{"aspect": "customer service", "label": "Neg", "sentence": "in my last review of etrade , i complained about the lousy customer service for potential clients ."}
+{"aspect": "research options", "label": "Pos", "sentence": "good research options , expanded quotes for stocks and option trades and , on average , $ 14.95 stock trades ."}
+{"aspect": "research", "label": "Pos", "sentence": "the research available once you open an account with them is very thorough ."}
+{"aspect": "service", "label": "Pos", "sentence": "that service is just part of the wonderful things this website will let you do ."}
+{"aspect": "website", "label": "Pos", "sentence": "that service is just part of the wonderful things this website will let you do ."}
+{"aspect": "program", "label": "Pos", "sentence": "i have really enjoyed being able to attend an accelerated program ."}
+{"aspect": "trading", "label": "Pos", "sentence": "trading through e*trade is fairly easy ."}
+{"aspect": "e*trade", "label": "Pos", "sentence": "trading through e*trade is fairly easy ."}
+{"aspect": "customer service representative", "label": "Neg", "sentence": "after about half an hour of busy signals , i was finally able to get through to a customer service representative who was of no help at all ."}
+{"aspect": "people", "label": "Pos", "sentence": "i have meet some really terrific people since then ."}
+{"aspect": "features", "label": "Pos", "sentence": "some other neat features worth mentioning are :"}
+{"aspect": "etrade 's", "label": "Pos", "sentence": "( it 's true : etrade 's money market account pays ~4.4 percent , three times what my bank paid . )"}
+{"aspect": "members", "label": "Neg", "sentence": "i have found that it may have too many members for me though ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "egroups gives me a way to learn and share with people i may have never encountered otherwise ."}
+{"aspect": "group", "label": "Neg", "sentence": "i thought the one group was a joke , but it turned out to be some really sick group that gets a rush from pooping in their own pants ."}
+{"aspect": "e*trade", "label": "Neg", "sentence": "i was initially drawn to e*trade for the same reasons that most people are : big cash !"}
+{"aspect": "markets page", "label": "Pos", "sentence": "the markets page is helpful for getting an overall view of what the market is doing ."}
+{"aspect": "etrade", "label": "Neg", "sentence": "( datek , ameritrade , suretrade ) i am very unpleased with etrade for multiple reason that have accumulated over the years ."}
+{"aspect": "bonus", "label": "Pos", "sentence": "and the really great bonus is that the choice can be made globally , or based on the subject matter of a conversation thread ."}
+{"aspect": "egroups", "label": "Pos", "sentence": "there is something for everyone on egroups and after venturing around i joined a few more email lists and have formed a lot of great friendships over the past two years ."}
+{"aspect": "friendships", "label": "Pos", "sentence": "there is something for everyone on egroups and after venturing around i joined a few more email lists and have formed a lot of great friendships over the past two years ."}
